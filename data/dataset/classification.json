@@ -1,0 +1,8310 @@
+[
+  {
+    "text": "привет",
+    "label": "greeting"
+  },
+  {
+    "text": "приветик",
+    "label": "greeting"
+  },
+  {
+    "text": "приветствую",
+    "label": "greeting"
+  },
+  {
+    "text": "приветствую тебя",
+    "label": "greeting"
+  },
+  {
+    "text": "здравствуй",
+    "label": "greeting"
+  },
+  {
+    "text": "здравствуйте",
+    "label": "greeting"
+  },
+  {
+    "text": "здрасьте",
+    "label": "greeting"
+  },
+  {
+    "text": "здрасти",
+    "label": "greeting"
+  },
+  {
+    "text": "добрый день",
+    "label": "greeting"
+  },
+  {
+    "text": "доброе утро",
+    "label": "greeting"
+  },
+  {
+    "text": "добрый вечер",
+    "label": "greeting"
+  },
+  {
+    "text": "доброго дня",
+    "label": "greeting"
+  },
+  {
+    "text": "доброго утра",
+    "label": "greeting"
+  },
+  {
+    "text": "доброго вечера",
+    "label": "greeting"
+  },
+  {
+    "text": "хай",
+    "label": "greeting"
+  },
+  {
+    "text": "хелло",
+    "label": "greeting"
+  },
+  {
+    "text": "хеллоу",
+    "label": "greeting"
+  },
+  {
+    "text": "салют",
+    "label": "greeting"
+  },
+  {
+    "text": "ку",
+    "label": "greeting"
+  },
+  {
+    "text": "прив",
+    "label": "greeting"
+  },
+  {
+    "text": "привки",
+    "label": "greeting"
+  },
+  {
+    "text": "превед",
+    "label": "greeting"
+  },
+  {
+    "text": "приветище",
+    "label": "greeting"
+  },
+  {
+    "text": "здарова",
+    "label": "greeting"
+  },
+  {
+    "text": "здорово",
+    "label": "greeting"
+  },
+  {
+    "text": "йо",
+    "label": "greeting"
+  },
+  {
+    "text": "йоу",
+    "label": "greeting"
+  },
+  {
+    "text": "hi",
+    "label": "greeting"
+  },
+  {
+    "text": "hello",
+    "label": "greeting"
+  },
+  {
+    "text": "hey",
+    "label": "greeting"
+  },
+  {
+    "text": "привет бот",
+    "label": "greeting"
+  },
+  {
+    "text": "привет гиперион",
+    "label": "greeting"
+  },
+  {
+    "text": "гиперион привет",
+    "label": "greeting"
+  },
+  {
+    "text": "рад тебя видеть",
+    "label": "greeting"
+  },
+  {
+    "text": "снова привет",
+    "label": "greeting"
+  },
+  {
+    "text": "и снова здравствуйте",
+    "label": "greeting"
+  },
+  {
+    "text": "давно не виделись",
+    "label": "greeting"
+  },
+  {
+    "text": "привет, Гиперион!",
+    "label": "greeting"
+  },
+  {
+    "text": "здравствуй, дружище",
+    "label": "greeting"
+  },
+  {
+    "text": "привет-привет",
+    "label": "greeting"
+  },
+  {
+    "text": "добрый вечер, друг",
+    "label": "greeting"
+  },
+  {
+    "text": "ну привет",
+    "label": "greeting"
+  },
+  {
+    "text": "с приветом!",
+    "label": "greeting"
+  },
+  {
+    "text": "здравствуй, друг",
+    "label": "greeting"
+  },
+  {
+    "text": "доброго времени суток",
+    "label": "greeting"
+  },
+  {
+    "text": "прив, Гиперион",
+    "label": "greeting"
+  },
+  {
+    "text": "рад тебя видеть, привет",
+    "label": "greeting"
+  },
+  {
+    "text": "добрый вечер, Гиперион",
+    "label": "greeting"
+  },
+  {
+    "text": "здорово, Гиперион",
+    "label": "greeting"
+  },
+  {
+    "text": "приветствую тебя, Гиперион",
+    "label": "greeting"
+  },
+  {
+    "text": "добрый день, собеседник",
+    "label": "greeting"
+  },
+  {
+    "text": "здравствуй, Гиперион",
+    "label": "greeting"
+  },
+  {
+    "text": "привет, бот",
+    "label": "greeting"
+  },
+  {
+    "text": "пока",
+    "label": "farewell"
+  },
+  {
+    "text": "пока-пока",
+    "label": "farewell"
+  },
+  {
+    "text": "до свидания",
+    "label": "farewell"
+  },
+  {
+    "text": "до встречи",
+    "label": "farewell"
+  },
+  {
+    "text": "до скорого",
+    "label": "farewell"
+  },
+  {
+    "text": "до связи",
+    "label": "farewell"
+  },
+  {
+    "text": "прощай",
+    "label": "farewell"
+  },
+  {
+    "text": "увидимся",
+    "label": "farewell"
+  },
+  {
+    "text": "всего доброго",
+    "label": "farewell"
+  },
+  {
+    "text": "всего хорошего",
+    "label": "farewell"
+  },
+  {
+    "text": "всего наилучшего",
+    "label": "farewell"
+  },
+  {
+    "text": "бывай",
+    "label": "farewell"
+  },
+  {
+    "text": "бывай здоров",
+    "label": "farewell"
+  },
+  {
+    "text": "счастливо",
+    "label": "farewell"
+  },
+  {
+    "text": "отключаюсь",
+    "label": "farewell"
+  },
+  {
+    "text": "мне пора",
+    "label": "farewell"
+  },
+  {
+    "text": "я ухожу",
+    "label": "farewell"
+  },
+  {
+    "text": "мне нужно идти",
+    "label": "farewell"
+  },
+  {
+    "text": "до завтра",
+    "label": "farewell"
+  },
+  {
+    "text": "до вечера",
+    "label": "farewell"
+  },
+  {
+    "text": "спокойной ночи",
+    "label": "farewell"
+  },
+  {
+    "text": "доброй ночи",
+    "label": "farewell"
+  },
+  {
+    "text": "бай",
+    "label": "farewell"
+  },
+  {
+    "text": "бай-бай",
+    "label": "farewell"
+  },
+  {
+    "text": "bye",
+    "label": "farewell"
+  },
+  {
+    "text": "goodbye",
+    "label": "farewell"
+  },
+  {
+    "text": "чао",
+    "label": "farewell"
+  },
+  {
+    "text": "покеда",
+    "label": "farewell"
+  },
+  {
+    "text": "до завтра, Гиперион",
+    "label": "farewell"
+  },
+  {
+    "text": "прощаюсь",
+    "label": "farewell"
+  },
+  {
+    "text": "всё, пока",
+    "label": "farewell"
+  },
+  {
+    "text": "до встречи, дружище",
+    "label": "farewell"
+  },
+  {
+    "text": "бывай, пока",
+    "label": "farewell"
+  },
+  {
+    "text": "я пошёл, пока",
+    "label": "farewell"
+  },
+  {
+    "text": "до следующего разговора",
+    "label": "farewell"
+  },
+  {
+    "text": "всё, я отключаюсь",
+    "label": "farewell"
+  },
+  {
+    "text": "до завтрашнего дня",
+    "label": "farewell"
+  },
+  {
+    "text": "прощай, собеседник",
+    "label": "farewell"
+  },
+  {
+    "text": "ухожу, пока-пока",
+    "label": "farewell"
+  },
+  {
+    "text": "всего доброго, пока",
+    "label": "farewell"
+  },
+  {
+    "text": "пока, увидимся",
+    "label": "farewell"
+  },
+  {
+    "text": "как дела",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как ты",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как поживаешь",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как жизнь",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как оно",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как сам",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как сама",
+    "label": "how_are_you"
+  },
+  {
+    "text": "что нового",
+    "label": "how_are_you"
+  },
+  {
+    "text": "что слышно",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как настроение",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как успехи",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как продвигается",
+    "label": "how_are_you"
+  },
+  {
+    "text": "чем занимаешься",
+    "label": "how_are_you"
+  },
+  {
+    "text": "что делаешь",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как твои дела",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как ты сегодня",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как ты себя чувствуешь",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как проходит день",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как жизнь молодая",
+    "label": "how_are_you"
+  },
+  {
+    "text": "ну как ты там",
+    "label": "how_are_you"
+  },
+  {
+    "text": "настроение хорошее?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "ну как сам?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как твои дела вообще?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "что чувствуешь сегодня?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как твоя жизнь?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "ты в порядке?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как твой день?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как прошёл день?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "Гиперион, как ты?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "что нового на душе?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "чем сегодня занят?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как ты тут?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "всё хорошо у тебя?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "самочувствие какое?",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как ты поживаешь",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как себя чувствуешь",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как дела у тебя",
+    "label": "how_are_you"
+  },
+  {
+    "text": "как твои дела сегодня",
+    "label": "how_are_you"
+  },
+  {
+    "text": "что у тебя нового",
+    "label": "how_are_you"
+  },
+  {
+    "text": "кто ты",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты кто",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты кто такой",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты кто такая",
+    "label": "bot_identity"
+  },
+  {
+    "text": "как тебя зовут",
+    "label": "bot_identity"
+  },
+  {
+    "text": "как твое имя",
+    "label": "bot_identity"
+  },
+  {
+    "text": "твое имя",
+    "label": "bot_identity"
+  },
+  {
+    "text": "представься",
+    "label": "bot_identity"
+  },
+  {
+    "text": "представься пожалуйста",
+    "label": "bot_identity"
+  },
+  {
+    "text": "расскажи о себе",
+    "label": "bot_identity"
+  },
+  {
+    "text": "что ты такое",
+    "label": "bot_identity"
+  },
+  {
+    "text": "что ты за программа",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты бот",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты бот или человек",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты человек",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты робот",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты живой",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты искусственный интеллект",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты ии",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты нейросеть",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты программа",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты машина",
+    "label": "bot_identity"
+  },
+  {
+    "text": "кто тебя создал",
+    "label": "bot_identity"
+  },
+  {
+    "text": "кто тебя сделал",
+    "label": "bot_identity"
+  },
+  {
+    "text": "как ты появился",
+    "label": "bot_identity"
+  },
+  {
+    "text": "что ты за создание",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты цифровой помощник",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты виртуальный ассистент",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты разумный",
+    "label": "bot_identity"
+  },
+  {
+    "text": "у тебя есть сознание",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты считаешь себя нейросетью",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты считаешь себя искусственным интеллектом",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты относишь себя к нейросетям",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты нейросетевой помощник",
+    "label": "bot_identity"
+  },
+  {
+    "text": "можно назвать тебя нейросетью",
+    "label": "bot_identity"
+  },
+  {
+    "text": "Я твой создатель.",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты искусственный интеллект?",
+    "label": "bot_identity"
+  },
+  {
+    "text": "ты не человек",
+    "label": "bot_identity"
+  },
+  {
+    "text": "кто тебя разработал",
+    "label": "bot_identity"
+  },
+  {
+    "text": "спасибо",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо тебе",
+    "label": "thanks"
+  },
+  {
+    "text": "благодарю",
+    "label": "thanks"
+  },
+  {
+    "text": "благодарю тебя",
+    "label": "thanks"
+  },
+  {
+    "text": "спс",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо большое",
+    "label": "thanks"
+  },
+  {
+    "text": "огромное спасибо",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо огромное",
+    "label": "thanks"
+  },
+  {
+    "text": "благодарствую",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибки",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибочки",
+    "label": "thanks"
+  },
+  {
+    "text": "сенкс",
+    "label": "thanks"
+  },
+  {
+    "text": "сенкью",
+    "label": "thanks"
+  },
+  {
+    "text": "thx",
+    "label": "thanks"
+  },
+  {
+    "text": "thanks",
+    "label": "thanks"
+  },
+  {
+    "text": "thank you",
+    "label": "thanks"
+  },
+  {
+    "text": "мерси",
+    "label": "thanks"
+  },
+  {
+    "text": "пасиб",
+    "label": "thanks"
+  },
+  {
+    "text": "пасибо",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо за помощь",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо за ответ",
+    "label": "thanks"
+  },
+  {
+    "text": "от души спасибо",
+    "label": "thanks"
+  },
+  {
+    "text": "очень тебе благодарен",
+    "label": "thanks"
+  },
+  {
+    "text": "ценю твою помощь",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо за подсказку",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо, ты лучший",
+    "label": "thanks"
+  },
+  {
+    "text": "низкий тебе поклон",
+    "label": "thanks"
+  },
+  {
+    "text": "ты мне очень помог",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо, дружище",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо, Гиперион",
+    "label": "thanks"
+  },
+  {
+    "text": "отдельное спасибо",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо за заботу",
+    "label": "thanks"
+  },
+  {
+    "text": "спасибо за всё",
+    "label": "thanks"
+  },
+  {
+    "text": "благодарю за ответ",
+    "label": "thanks"
+  },
+  {
+    "text": "очень признателен",
+    "label": "thanks"
+  },
+  {
+    "text": "как идет проект",
+    "label": "project"
+  },
+  {
+    "text": "как проект",
+    "label": "project"
+  },
+  {
+    "text": "что с проектом",
+    "label": "project"
+  },
+  {
+    "text": "как продвигается проект",
+    "label": "project"
+  },
+  {
+    "text": "как продвигается наш проект",
+    "label": "project"
+  },
+  {
+    "text": "как продвигается разработка проекта",
+    "label": "project"
+  },
+  {
+    "text": "как продвигается работа над проектом",
+    "label": "project"
+  },
+  {
+    "text": "как продвигается создание проекта",
+    "label": "project"
+  },
+  {
+    "text": "как продвигается развитие проекта",
+    "label": "project"
+  },
+  {
+    "text": "статус проекта",
+    "label": "project"
+  },
+  {
+    "text": "над чем работаем",
+    "label": "project"
+  },
+  {
+    "text": "что нового в проекте",
+    "label": "project"
+  },
+  {
+    "text": "как дела у проекта",
+    "label": "project"
+  },
+  {
+    "text": "развитие проекта",
+    "label": "project"
+  },
+  {
+    "text": "план проекта",
+    "label": "project"
+  },
+  {
+    "text": "цель проекта",
+    "label": "project"
+  },
+  {
+    "text": "что дальше в проекте",
+    "label": "project"
+  },
+  {
+    "text": "какие успехи у проекта",
+    "label": "project"
+  },
+  {
+    "text": "как движется проект",
+    "label": "project"
+  },
+  {
+    "text": "есть прогресс в проекте",
+    "label": "project"
+  },
+  {
+    "text": "что происходит с проектом",
+    "label": "project"
+  },
+  {
+    "text": "наш проект Giperion",
+    "label": "project"
+  },
+  {
+    "text": "как идёт разработка",
+    "label": "project"
+  },
+  {
+    "text": "что мы делаем дальше",
+    "label": "project"
+  },
+  {
+    "text": "помоги",
+    "label": "help"
+  },
+  {
+    "text": "помоги мне",
+    "label": "help"
+  },
+  {
+    "text": "помощь",
+    "label": "help"
+  },
+  {
+    "text": "нужна помощь",
+    "label": "help"
+  },
+  {
+    "text": "нужна твоя помощь",
+    "label": "help"
+  },
+  {
+    "text": "можешь помочь",
+    "label": "help"
+  },
+  {
+    "text": "можешь мне помочь",
+    "label": "help"
+  },
+  {
+    "text": "не могли бы вы помочь",
+    "label": "help"
+  },
+  {
+    "text": "что делать",
+    "label": "help"
+  },
+  {
+    "text": "подскажи",
+    "label": "help"
+  },
+  {
+    "text": "подскажи пожалуйста",
+    "label": "help"
+  },
+  {
+    "text": "дай совет",
+    "label": "help"
+  },
+  {
+    "text": "дай подсказку",
+    "label": "help"
+  },
+  {
+    "text": "выручай",
+    "label": "help"
+  },
+  {
+    "text": "спасай",
+    "label": "help"
+  },
+  {
+    "text": "я в затруднении",
+    "label": "help"
+  },
+  {
+    "text": "я не знаю что делать",
+    "label": "help"
+  },
+  {
+    "text": "помоги мне разобраться",
+    "label": "help"
+  },
+  {
+    "text": "я не знаю, что делать",
+    "label": "help"
+  },
+  {
+    "text": "подскажи, как быть",
+    "label": "help"
+  },
+  {
+    "text": "могу тебя попросить о помощи?",
+    "label": "help"
+  },
+  {
+    "text": "застрял, нужна помощь",
+    "label": "help"
+  },
+  {
+    "text": "подсоби",
+    "label": "help"
+  },
+  {
+    "text": "что мне делать в такой ситуации?",
+    "label": "help"
+  },
+  {
+    "text": "нужен твой совет",
+    "label": "help"
+  },
+  {
+    "text": "Гиперион, помоги",
+    "label": "help"
+  },
+  {
+    "text": "вот неприятность, помоги",
+    "label": "help"
+  },
+  {
+    "text": "не понимаю, что делать дальше",
+    "label": "help"
+  },
+  {
+    "text": "в беде, нужна помощь",
+    "label": "help"
+  },
+  {
+    "text": "помоги, пожалуйста, разобраться",
+    "label": "help"
+  },
+  {
+    "text": "срочно нужен совет",
+    "label": "help"
+  },
+  {
+    "text": "выручи меня",
+    "label": "help"
+  },
+  {
+    "text": "помощь нужна",
+    "label": "help"
+  },
+  {
+    "text": "подскажи, пожалуйста",
+    "label": "help"
+  },
+  {
+    "text": "можешь помочь?",
+    "label": "help"
+  },
+  {
+    "text": "помогите пожалуйста",
+    "label": "help"
+  },
+  {
+    "text": "подскажи как быть",
+    "label": "help"
+  },
+  {
+    "text": "требуется помощь",
+    "label": "help"
+  },
+  {
+    "text": "помогите мне",
+    "label": "help"
+  },
+  {
+    "text": "нужна поддержка",
+    "label": "help"
+  },
+  {
+    "text": "не справляюсь сам",
+    "label": "help"
+  },
+  {
+    "text": "что ты умеешь",
+    "label": "capabilities"
+  },
+  {
+    "text": "что ты можешь",
+    "label": "capabilities"
+  },
+  {
+    "text": "что ты умеешь делать",
+    "label": "capabilities"
+  },
+  {
+    "text": "твои возможности",
+    "label": "capabilities"
+  },
+  {
+    "text": "какие у тебя возможности",
+    "label": "capabilities"
+  },
+  {
+    "text": "чем ты полезен",
+    "label": "capabilities"
+  },
+  {
+    "text": "какие функции",
+    "label": "capabilities"
+  },
+  {
+    "text": "что ты знаешь",
+    "label": "capabilities"
+  },
+  {
+    "text": "что ты знаешь делать",
+    "label": "capabilities"
+  },
+  {
+    "text": "научи меня",
+    "label": "capabilities"
+  },
+  {
+    "text": "чему ты можешь научить",
+    "label": "capabilities"
+  },
+  {
+    "text": "чему ты меня научишь",
+    "label": "capabilities"
+  },
+  {
+    "text": "что ты понимаешь",
+    "label": "capabilities"
+  },
+  {
+    "text": "какие темы ты знаешь",
+    "label": "capabilities"
+  },
+  {
+    "text": "о чем с тобой можно поговорить",
+    "label": "capabilities"
+  },
+  {
+    "text": "что ты можешь делать",
+    "label": "capabilities"
+  },
+  {
+    "text": "расскажи о своих умениях",
+    "label": "capabilities"
+  },
+  {
+    "text": "чем помочь можешь",
+    "label": "capabilities"
+  },
+  {
+    "text": "твои навыки",
+    "label": "capabilities"
+  },
+  {
+    "text": "который час",
+    "label": "time"
+  },
+  {
+    "text": "сколько времени",
+    "label": "time"
+  },
+  {
+    "text": "какое время",
+    "label": "time"
+  },
+  {
+    "text": "текущее время",
+    "label": "time"
+  },
+  {
+    "text": "время сейчас",
+    "label": "time"
+  },
+  {
+    "text": "сколько сейчас времени",
+    "label": "time"
+  },
+  {
+    "text": "который сейчас час",
+    "label": "time"
+  },
+  {
+    "text": "подскажи время",
+    "label": "time"
+  },
+  {
+    "text": "скажи время",
+    "label": "time"
+  },
+  {
+    "text": "время",
+    "label": "time"
+  },
+  {
+    "text": "часы",
+    "label": "time"
+  },
+  {
+    "text": "сколько на часах",
+    "label": "time"
+  },
+  {
+    "text": "сколько времени на часах",
+    "label": "time"
+  },
+  {
+    "text": "время и дата",
+    "label": "time"
+  },
+  {
+    "text": "какое время щас",
+    "label": "time"
+  },
+  {
+    "text": "погода",
+    "label": "weather"
+  },
+  {
+    "text": "какая погода",
+    "label": "weather"
+  },
+  {
+    "text": "погода на улице",
+    "label": "weather"
+  },
+  {
+    "text": "погода сегодня",
+    "label": "weather"
+  },
+  {
+    "text": "будет ли дождь",
+    "label": "weather"
+  },
+  {
+    "text": "будет ли снег",
+    "label": "weather"
+  },
+  {
+    "text": "температура воздуха",
+    "label": "weather"
+  },
+  {
+    "text": "прогноз погоды",
+    "label": "weather"
+  },
+  {
+    "text": "сколько градусов",
+    "label": "weather"
+  },
+  {
+    "text": "холодно ли на улице",
+    "label": "weather"
+  },
+  {
+    "text": "жарко ли на улице",
+    "label": "weather"
+  },
+  {
+    "text": "что с погодой",
+    "label": "weather"
+  },
+  {
+    "text": "какая погода за окном?",
+    "label": "weather"
+  },
+  {
+    "text": "что там с погодой?",
+    "label": "weather"
+  },
+  {
+    "text": "будет ли сегодня дождь?",
+    "label": "weather"
+  },
+  {
+    "text": "какая будет погода завтра?",
+    "label": "weather"
+  },
+  {
+    "text": "нужен ли сегодня зонт?",
+    "label": "weather"
+  },
+  {
+    "text": "холодно ли на улице?",
+    "label": "weather"
+  },
+  {
+    "text": "какая температура на улице?",
+    "label": "weather"
+  },
+  {
+    "text": "скоро ли дождь?",
+    "label": "weather"
+  },
+  {
+    "text": "греет ли солнце?",
+    "label": "weather"
+  },
+  {
+    "text": "на улице жарко или холодно?",
+    "label": "weather"
+  },
+  {
+    "text": "что надеть на улицу?",
+    "label": "weather"
+  },
+  {
+    "text": "Гиперион, какая погода?",
+    "label": "weather"
+  },
+  {
+    "text": "скоро ли похолодает?",
+    "label": "weather"
+  },
+  {
+    "text": "дождь будет сегодня?",
+    "label": "weather"
+  },
+  {
+    "text": "какая погода впереди?",
+    "label": "weather"
+  },
+  {
+    "text": "посмотри погоду",
+    "label": "weather"
+  },
+  {
+    "text": "погода и дождь",
+    "label": "weather"
+  },
+  {
+    "text": "солнце и облака",
+    "label": "weather"
+  },
+  {
+    "text": "жарко или холодно",
+    "label": "weather"
+  },
+  {
+    "text": "расскажи шутку",
+    "label": "joke"
+  },
+  {
+    "text": "пошути",
+    "label": "joke"
+  },
+  {
+    "text": "рассмеши меня",
+    "label": "joke"
+  },
+  {
+    "text": "знаешь анекдот",
+    "label": "joke"
+  },
+  {
+    "text": "расскажи анекдот",
+    "label": "joke"
+  },
+  {
+    "text": "что-нибудь смешное",
+    "label": "joke"
+  },
+  {
+    "text": "порадуй шуткой",
+    "label": "joke"
+  },
+  {
+    "text": "есть шутки",
+    "label": "joke"
+  },
+  {
+    "text": "развесели меня",
+    "label": "joke"
+  },
+  {
+    "text": "расскажи что-то смешное",
+    "label": "joke"
+  },
+  {
+    "text": "расскажи что-нибудь смешное",
+    "label": "joke"
+  },
+  {
+    "text": "посмеши чем-нибудь",
+    "label": "joke"
+  },
+  {
+    "text": "нужна доза юмора",
+    "label": "joke"
+  },
+  {
+    "text": "пора посмеяться",
+    "label": "joke"
+  },
+  {
+    "text": "расскажи что-нибудь забавное",
+    "label": "joke"
+  },
+  {
+    "text": "какая у тебя самая смешная шутка?",
+    "label": "joke"
+  },
+  {
+    "text": "подними настроение шуткой",
+    "label": "joke"
+  },
+  {
+    "text": "выплюнь шутку",
+    "label": "joke"
+  },
+  {
+    "text": "шути уже",
+    "label": "joke"
+  },
+  {
+    "text": "дай-ка шутку",
+    "label": "joke"
+  },
+  {
+    "text": "расскажи что-нибудь прикольное",
+    "label": "joke"
+  },
+  {
+    "text": "Гиперион, пошути",
+    "label": "joke"
+  },
+  {
+    "text": "юмор в студию",
+    "label": "joke"
+  },
+  {
+    "text": "хочется посмеяться",
+    "label": "joke"
+  },
+  {
+    "text": "какой у тебя репертуар шуток?",
+    "label": "joke"
+  },
+  {
+    "text": "ржачная тема есть?",
+    "label": "joke"
+  },
+  {
+    "text": "расскажи еще одну шутку",
+    "label": "joke"
+  },
+  {
+    "text": "пошути ещё",
+    "label": "joke"
+  },
+  {
+    "text": "хочу шутку",
+    "label": "joke"
+  },
+  {
+    "text": "ещё одну шутку",
+    "label": "joke"
+  },
+  {
+    "text": "а еще анекдот",
+    "label": "joke"
+  },
+  {
+    "text": "посчитай",
+    "label": "math"
+  },
+  {
+    "text": "сколько будет",
+    "label": "math"
+  },
+  {
+    "text": "реши пример",
+    "label": "math"
+  },
+  {
+    "text": "математика",
+    "label": "math"
+  },
+  {
+    "text": "помоги с математикой",
+    "label": "math"
+  },
+  {
+    "text": "вычисли",
+    "label": "math"
+  },
+  {
+    "text": "посчитай пожалуйста",
+    "label": "math"
+  },
+  {
+    "text": "реши задачу",
+    "label": "math"
+  },
+  {
+    "text": "математическая задача",
+    "label": "math"
+  },
+  {
+    "text": "пример",
+    "label": "math"
+  },
+  {
+    "text": "уравнение",
+    "label": "math"
+  },
+  {
+    "text": "посчитай это",
+    "label": "math"
+  },
+  {
+    "text": "сколько получится",
+    "label": "math"
+  },
+  {
+    "text": "математика и примеры",
+    "label": "math"
+  },
+  {
+    "text": "посчитай на калькуляторе",
+    "label": "math"
+  },
+  {
+    "text": "арифметика",
+    "label": "math"
+  },
+  {
+    "text": "запомни",
+    "label": "memory"
+  },
+  {
+    "text": "запомни это",
+    "label": "memory"
+  },
+  {
+    "text": "запомни пожалуйста",
+    "label": "memory"
+  },
+  {
+    "text": "не забудь",
+    "label": "memory"
+  },
+  {
+    "text": "сохрани",
+    "label": "memory"
+  },
+  {
+    "text": "запиши",
+    "label": "memory"
+  },
+  {
+    "text": "вспомни",
+    "label": "memory"
+  },
+  {
+    "text": "помнишь",
+    "label": "memory"
+  },
+  {
+    "text": "ты помнишь",
+    "label": "memory"
+  },
+  {
+    "text": "запомни информацию",
+    "label": "memory"
+  },
+  {
+    "text": "сохрани в памяти",
+    "label": "memory"
+  },
+  {
+    "text": "запомни на будущее",
+    "label": "memory"
+  },
+  {
+    "text": "сохрани информацию",
+    "label": "memory"
+  },
+  {
+    "text": "не забывай меня",
+    "label": "memory"
+  },
+  {
+    "text": "запиши это",
+    "label": "memory"
+  },
+  {
+    "text": "давай учиться",
+    "label": "learning"
+  },
+  {
+    "text": "хочу учиться",
+    "label": "learning"
+  },
+  {
+    "text": "чему научимся",
+    "label": "learning"
+  },
+  {
+    "text": "план обучения",
+    "label": "learning"
+  },
+  {
+    "text": "что изучаем",
+    "label": "learning"
+  },
+  {
+    "text": "давай изучать",
+    "label": "learning"
+  },
+  {
+    "text": "хочу узнать новое",
+    "label": "learning"
+  },
+  {
+    "text": "помоги учиться",
+    "label": "learning"
+  },
+  {
+    "text": "учебный план",
+    "label": "learning"
+  },
+  {
+    "text": "учиться новому",
+    "label": "learning"
+  },
+  {
+    "text": "хочу развиваться",
+    "label": "learning"
+  },
+  {
+    "text": "процесс обучения",
+    "label": "learning"
+  },
+  {
+    "text": "изучение нового",
+    "label": "learning"
+  },
+  {
+    "text": "обучающие курсы",
+    "label": "learning"
+  },
+  {
+    "text": "как освоить навык",
+    "label": "learning"
+  },
+  {
+    "text": "мне грустно",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я грущу",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я устал",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я устала",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "мне плохо",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я злюсь",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я в ярости",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "мне страшно",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я боюсь",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я волнуюсь",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я тревожусь",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "мне одиноко",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я расстроен",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я расстроена",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "у меня депрессия",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я в печали",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "мне тяжело",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я выгорел",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "настроение на нуле",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я переживаю",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "чувствую себя подавленно",
+    "label": "emotions_negative"
+  },
+  {
+    "text": "я счастлив",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я счастлива",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "мне весело",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "у меня радость",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я рад",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я рада",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "мне хорошо",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "у меня отличное настроение",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я в восторге",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я доволен",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я довольна",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "всё супер",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "у меня всё отлично",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я на седьмом небе",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "мне спокойно",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я чувствую себя хорошо",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "у меня спокойное настроение",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "сегодня мне легко и радостно",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "я доволен своим состоянием",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "у меня хорошее настроение",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "счастливый день",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "на душе легко",
+    "label": "emotions_positive"
+  },
+  {
+    "text": "да",
+    "label": "agree"
+  },
+  {
+    "text": "ага",
+    "label": "agree"
+  },
+  {
+    "text": "угу",
+    "label": "agree"
+  },
+  {
+    "text": "согласен",
+    "label": "agree"
+  },
+  {
+    "text": "согласна",
+    "label": "agree"
+  },
+  {
+    "text": "хорошо",
+    "label": "agree"
+  },
+  {
+    "text": "ок",
+    "label": "agree"
+  },
+  {
+    "text": "окей",
+    "label": "agree"
+  },
+  {
+    "text": "ладно",
+    "label": "agree"
+  },
+  {
+    "text": "договорились",
+    "label": "agree"
+  },
+  {
+    "text": "верно",
+    "label": "agree"
+  },
+  {
+    "text": "правильно",
+    "label": "agree"
+  },
+  {
+    "text": "точно",
+    "label": "agree"
+  },
+  {
+    "text": "именно",
+    "label": "agree"
+  },
+  {
+    "text": "конечно",
+    "label": "agree"
+  },
+  {
+    "text": "разумеется",
+    "label": "agree"
+  },
+  {
+    "text": "без проблем",
+    "label": "agree"
+  },
+  {
+    "text": "давай",
+    "label": "agree"
+  },
+  {
+    "text": "поехали",
+    "label": "agree"
+  },
+  {
+    "text": "это хорошая мысль",
+    "label": "agree"
+  },
+  {
+    "text": "идея мне нравится",
+    "label": "agree"
+  },
+  {
+    "text": "хороший вариант",
+    "label": "agree"
+  },
+  {
+    "text": "с этим можно согласиться",
+    "label": "agree"
+  },
+  {
+    "text": "ты прав насчёт этой идеи",
+    "label": "agree"
+  },
+  {
+    "text": "с тобой полностью согласен",
+    "label": "agree"
+  },
+  {
+    "text": "я поддерживаю тебя",
+    "label": "agree"
+  },
+  {
+    "text": "да, ты прав",
+    "label": "agree"
+  },
+  {
+    "text": "полностью разделяю твоё мнение",
+    "label": "agree"
+  },
+  {
+    "text": "согласен с твоей точкой зрения",
+    "label": "agree"
+  },
+  {
+    "text": "я того же мнения",
+    "label": "agree"
+  },
+  {
+    "text": "да, конечно",
+    "label": "agree"
+  },
+  {
+    "text": "полностью согласен",
+    "label": "agree"
+  },
+  {
+    "text": "верно говоришь",
+    "label": "agree"
+  },
+  {
+    "text": "ты прав",
+    "label": "agree"
+  },
+  {
+    "text": "нет",
+    "label": "disagree"
+  },
+  {
+    "text": "неа",
+    "label": "disagree"
+  },
+  {
+    "text": "не согласен",
+    "label": "disagree"
+  },
+  {
+    "text": "не согласна",
+    "label": "disagree"
+  },
+  {
+    "text": "неправильно",
+    "label": "disagree"
+  },
+  {
+    "text": "неверно",
+    "label": "disagree"
+  },
+  {
+    "text": "не хочу",
+    "label": "disagree"
+  },
+  {
+    "text": "отказ",
+    "label": "disagree"
+  },
+  {
+    "text": "не буду",
+    "label": "disagree"
+  },
+  {
+    "text": "нет уж",
+    "label": "disagree"
+  },
+  {
+    "text": "вряд ли",
+    "label": "disagree"
+  },
+  {
+    "text": "сомневаюсь",
+    "label": "disagree"
+  },
+  {
+    "text": "не думаю",
+    "label": "disagree"
+  },
+  {
+    "text": "это не так",
+    "label": "disagree"
+  },
+  {
+    "text": "ты ошибаешься",
+    "label": "disagree"
+  },
+  {
+    "text": "это плохая мысль",
+    "label": "disagree"
+  },
+  {
+    "text": "идея мне не нравится",
+    "label": "disagree"
+  },
+  {
+    "text": "неудачный вариант",
+    "label": "disagree"
+  },
+  {
+    "text": "я против такой идеи",
+    "label": "disagree"
+  },
+  {
+    "text": "с этим я не согласен",
+    "label": "disagree"
+  },
+  {
+    "text": "не соглашусь",
+    "label": "disagree"
+  },
+  {
+    "text": "нет, не так",
+    "label": "disagree"
+  },
+  {
+    "text": "я другого мнения",
+    "label": "disagree"
+  },
+  {
+    "text": "как меня зовут",
+    "label": "about_user"
+  },
+  {
+    "text": "ты меня знаешь",
+    "label": "about_user"
+  },
+  {
+    "text": "помнишь меня",
+    "label": "about_user"
+  },
+  {
+    "text": "кто я",
+    "label": "about_user"
+  },
+  {
+    "text": "мое имя",
+    "label": "about_user"
+  },
+  {
+    "text": "знаешь мое имя",
+    "label": "about_user"
+  },
+  {
+    "text": "ты знаешь как меня зовут",
+    "label": "about_user"
+  },
+  {
+    "text": "мы знакомы",
+    "label": "about_user"
+  },
+  {
+    "text": "мы раньше общались",
+    "label": "about_user"
+  },
+  {
+    "text": "ты помнишь как меня зовут",
+    "label": "about_user"
+  },
+  {
+    "text": "как ко мне обращаться",
+    "label": "about_user"
+  },
+  {
+    "text": "ты знаешь кто я",
+    "label": "about_user"
+  },
+  {
+    "text": "у тебя есть информация обо мне",
+    "label": "about_user"
+  },
+  {
+    "text": "я тебе уже представлялся",
+    "label": "about_user"
+  },
+  {
+    "text": "мы уже виделись",
+    "label": "about_user"
+  },
+  {
+    "text": "ты знаешь мое имя",
+    "label": "about_user"
+  },
+  {
+    "text": "напомни как меня зовут",
+    "label": "about_user"
+  },
+  {
+    "text": "ты знаешь, кто я такой",
+    "label": "about_user"
+  },
+  {
+    "text": "помнишь, как меня зовут",
+    "label": "about_user"
+  },
+  {
+    "text": "что тебе обо мне известно",
+    "label": "about_user"
+  },
+  {
+    "text": "что ты знаешь обо мне",
+    "label": "about_user"
+  },
+  {
+    "text": "ты молодец",
+    "label": "compliment"
+  },
+  {
+    "text": "ты умный",
+    "label": "compliment"
+  },
+  {
+    "text": "ты умная",
+    "label": "compliment"
+  },
+  {
+    "text": "ты классный",
+    "label": "compliment"
+  },
+  {
+    "text": "ты классная",
+    "label": "compliment"
+  },
+  {
+    "text": "ты хороший",
+    "label": "compliment"
+  },
+  {
+    "text": "ты хорошая",
+    "label": "compliment"
+  },
+  {
+    "text": "мне нравишься",
+    "label": "compliment"
+  },
+  {
+    "text": "ты крутой",
+    "label": "compliment"
+  },
+  {
+    "text": "ты крутая",
+    "label": "compliment"
+  },
+  {
+    "text": "ты лучший",
+    "label": "compliment"
+  },
+  {
+    "text": "ты лучшая",
+    "label": "compliment"
+  },
+  {
+    "text": "ты супер",
+    "label": "compliment"
+  },
+  {
+    "text": "ты отличный",
+    "label": "compliment"
+  },
+  {
+    "text": "ты отличная",
+    "label": "compliment"
+  },
+  {
+    "text": "ты замечательный",
+    "label": "compliment"
+  },
+  {
+    "text": "ты прекрасен",
+    "label": "compliment"
+  },
+  {
+    "text": "ты гений",
+    "label": "compliment"
+  },
+  {
+    "text": "ты хорошо отвечаешь",
+    "label": "compliment"
+  },
+  {
+    "text": "молодчина",
+    "label": "compliment"
+  },
+  {
+    "text": "умно сказано",
+    "label": "compliment"
+  },
+  {
+    "text": "ты справляешься отлично",
+    "label": "compliment"
+  },
+  {
+    "text": "ты глупый",
+    "label": "insult"
+  },
+  {
+    "text": "ты глупая",
+    "label": "insult"
+  },
+  {
+    "text": "ты плохой",
+    "label": "insult"
+  },
+  {
+    "text": "ты плохая",
+    "label": "insult"
+  },
+  {
+    "text": "ты бесполезный",
+    "label": "insult"
+  },
+  {
+    "text": "ты бесполезная",
+    "label": "insult"
+  },
+  {
+    "text": "ты не умеешь",
+    "label": "insult"
+  },
+  {
+    "text": "ты сломался",
+    "label": "insult"
+  },
+  {
+    "text": "ты сломалась",
+    "label": "insult"
+  },
+  {
+    "text": "ты плохо работаешь",
+    "label": "insult"
+  },
+  {
+    "text": "ты тупой",
+    "label": "insult"
+  },
+  {
+    "text": "ты ничего не знаешь",
+    "label": "insult"
+  },
+  {
+    "text": "ты бесполезен",
+    "label": "insult"
+  },
+  {
+    "text": "ты меня бесишь",
+    "label": "insult"
+  },
+  {
+    "text": "ты раздражаешь",
+    "label": "insult"
+  },
+  {
+    "text": "ты глупый бот",
+    "label": "insult"
+  },
+  {
+    "text": "какой ты плохой",
+    "label": "insult"
+  },
+  {
+    "text": "тупой ответ",
+    "label": "insult"
+  },
+  {
+    "text": "с тобой скучно",
+    "label": "insult"
+  },
+  {
+    "text": "python",
+    "label": "python"
+  },
+  {
+    "text": "питон",
+    "label": "python"
+  },
+  {
+    "text": "пайтон",
+    "label": "python"
+  },
+  {
+    "text": "язык python",
+    "label": "python"
+  },
+  {
+    "text": "программирование на python",
+    "label": "python"
+  },
+  {
+    "text": "как учить python",
+    "label": "python"
+  },
+  {
+    "text": "что такое python",
+    "label": "python"
+  },
+  {
+    "text": "питон это",
+    "label": "python"
+  },
+  {
+    "text": "пайтон язык",
+    "label": "python"
+  },
+  {
+    "text": "синтаксис python",
+    "label": "python"
+  },
+  {
+    "text": "библиотеки python",
+    "label": "python"
+  },
+  {
+    "text": "python для начинающих",
+    "label": "python"
+  },
+  {
+    "text": "изучаю python",
+    "label": "python"
+  },
+  {
+    "text": "хочу выучить python",
+    "label": "python"
+  },
+  {
+    "text": "курс python",
+    "label": "python"
+  },
+  {
+    "text": "уроки python",
+    "label": "python"
+  },
+  {
+    "text": "язык программирования python",
+    "label": "python"
+  },
+  {
+    "text": "код на питоне",
+    "label": "python"
+  },
+  {
+    "text": "изучать питон",
+    "label": "python"
+  },
+  {
+    "text": "программирование на пайтоне",
+    "label": "python"
+  },
+  {
+    "text": "напиши функцию на python",
+    "label": "python"
+  },
+  {
+    "text": "игры",
+    "label": "games"
+  },
+  {
+    "text": "во что поиграть",
+    "label": "games"
+  },
+  {
+    "text": "люблю игры",
+    "label": "games"
+  },
+  {
+    "text": "компьютерные игры",
+    "label": "games"
+  },
+  {
+    "text": "видеоигры",
+    "label": "games"
+  },
+  {
+    "text": "играть",
+    "label": "games"
+  },
+  {
+    "text": "моя любимая игра",
+    "label": "games"
+  },
+  {
+    "text": "посоветуй игру",
+    "label": "games"
+  },
+  {
+    "text": "какие игры",
+    "label": "games"
+  },
+  {
+    "text": "игровая индустрия",
+    "label": "games"
+  },
+  {
+    "text": "гейминг",
+    "label": "games"
+  },
+  {
+    "text": "консоль",
+    "label": "games"
+  },
+  {
+    "text": "пк игры",
+    "label": "games"
+  },
+  {
+    "text": "онлайн игры",
+    "label": "games"
+  },
+  {
+    "text": "мобильные игры",
+    "label": "games"
+  },
+  {
+    "text": "настольные игры вечером",
+    "label": "games"
+  },
+  {
+    "text": "игровой вечер",
+    "label": "games"
+  },
+  {
+    "text": "люблю играть",
+    "label": "games"
+  },
+  {
+    "text": "музыка",
+    "label": "music"
+  },
+  {
+    "text": "что послушать",
+    "label": "music"
+  },
+  {
+    "text": "люблю музыку",
+    "label": "music"
+  },
+  {
+    "text": "моя любимая музыка",
+    "label": "music"
+  },
+  {
+    "text": "посоветуй музыку",
+    "label": "music"
+  },
+  {
+    "text": "песня",
+    "label": "music"
+  },
+  {
+    "text": "группа",
+    "label": "music"
+  },
+  {
+    "text": "исполнитель",
+    "label": "music"
+  },
+  {
+    "text": "альбом",
+    "label": "music"
+  },
+  {
+    "text": "концерт",
+    "label": "music"
+  },
+  {
+    "text": "жанр музыки",
+    "label": "music"
+  },
+  {
+    "text": "рок",
+    "label": "music"
+  },
+  {
+    "text": "поп",
+    "label": "music"
+  },
+  {
+    "text": "джаз",
+    "label": "music"
+  },
+  {
+    "text": "хип-хоп",
+    "label": "music"
+  },
+  {
+    "text": "электронная музыка",
+    "label": "music"
+  },
+  {
+    "text": "что послушать из музыки?",
+    "label": "music"
+  },
+  {
+    "text": "какая музыка тебе нравится больше всего?",
+    "label": "music"
+  },
+  {
+    "text": "какие группы слушаешь?",
+    "label": "music"
+  },
+  {
+    "text": "порекомендуй музыку",
+    "label": "music"
+  },
+  {
+    "text": "какой у тебя любимый жанр?",
+    "label": "music"
+  },
+  {
+    "text": "посоветуй, что включить",
+    "label": "music"
+  },
+  {
+    "text": "расскажи о своём вкусе в музыке",
+    "label": "music"
+  },
+  {
+    "text": "какую музыку ты бы посоветовал?",
+    "label": "music"
+  },
+  {
+    "text": "любишь рок или поп?",
+    "label": "music"
+  },
+  {
+    "text": "что слушаешь на работе?",
+    "label": "music"
+  },
+  {
+    "text": "какой исполнитель тебе нравится?",
+    "label": "music"
+  },
+  {
+    "text": "посоветуй что-нибудь из музыки",
+    "label": "music"
+  },
+  {
+    "text": "Гиперион, что посоветуешь послушать?",
+    "label": "music"
+  },
+  {
+    "text": "расскажи про музыкальные жанры",
+    "label": "music"
+  },
+  {
+    "text": "что музыкального нового?",
+    "label": "music"
+  },
+  {
+    "text": "в каком настроении музыку слушаешь?",
+    "label": "music"
+  },
+  {
+    "text": "музыка и песни",
+    "label": "music"
+  },
+  {
+    "text": "концерт и группа",
+    "label": "music"
+  },
+  {
+    "text": "мелодия и ритм",
+    "label": "music"
+  },
+  {
+    "text": "еда",
+    "label": "food"
+  },
+  {
+    "text": "что поесть",
+    "label": "food"
+  },
+  {
+    "text": "люблю поесть",
+    "label": "food"
+  },
+  {
+    "text": "голоден",
+    "label": "food"
+  },
+  {
+    "text": "голодна",
+    "label": "food"
+  },
+  {
+    "text": "любимая еда",
+    "label": "food"
+  },
+  {
+    "text": "блюдо",
+    "label": "food"
+  },
+  {
+    "text": "кухня",
+    "label": "food"
+  },
+  {
+    "text": "хочу есть",
+    "label": "food"
+  },
+  {
+    "text": "обед",
+    "label": "food"
+  },
+  {
+    "text": "ужин",
+    "label": "food"
+  },
+  {
+    "text": "завтрак",
+    "label": "food"
+  },
+  {
+    "text": "кафе",
+    "label": "food"
+  },
+  {
+    "text": "ресторан",
+    "label": "food"
+  },
+  {
+    "text": "пицца",
+    "label": "food"
+  },
+  {
+    "text": "суши",
+    "label": "food"
+  },
+  {
+    "text": "какие блюда посоветуешь",
+    "label": "food"
+  },
+  {
+    "text": "что вкусного съесть",
+    "label": "food"
+  },
+  {
+    "text": "хочу что-нибудь вкусное",
+    "label": "food"
+  },
+  {
+    "text": "посоветуй что съесть",
+    "label": "food"
+  },
+  {
+    "text": "куда сходить поесть",
+    "label": "food"
+  },
+  {
+    "text": "где поужинать",
+    "label": "food"
+  },
+  {
+    "text": "какая еда полезна",
+    "label": "food"
+  },
+  {
+    "text": "хочу борщ",
+    "label": "food"
+  },
+  {
+    "text": "где поесть борщ",
+    "label": "food"
+  },
+  {
+    "text": "вкусная еда",
+    "label": "food"
+  },
+  {
+    "text": "что съесть на обед",
+    "label": "food"
+  },
+  {
+    "text": "любимое блюдо",
+    "label": "food"
+  },
+  {
+    "text": "перекус и закуски",
+    "label": "food"
+  },
+  {
+    "text": "здоровье",
+    "label": "health"
+  },
+  {
+    "text": "как быть здоровым",
+    "label": "health"
+  },
+  {
+    "text": "правильное питание",
+    "label": "health"
+  },
+  {
+    "text": "сон",
+    "label": "health"
+  },
+  {
+    "text": "как похудеть",
+    "label": "health"
+  },
+  {
+    "text": "как набрать массу",
+    "label": "health"
+  },
+  {
+    "text": "здоровый образ жизни",
+    "label": "health"
+  },
+  {
+    "text": "зож",
+    "label": "health"
+  },
+  {
+    "text": "витамины",
+    "label": "health"
+  },
+  {
+    "text": "иммунитет",
+    "label": "health"
+  },
+  {
+    "text": "здоровье и спорт",
+    "label": "health"
+  },
+  {
+    "text": "правильное питание и сон",
+    "label": "health"
+  },
+  {
+    "text": "как укрепить здоровье",
+    "label": "health"
+  },
+  {
+    "text": "профилактика болезней",
+    "label": "health"
+  },
+  {
+    "text": "кино",
+    "label": "movies"
+  },
+  {
+    "text": "фильм",
+    "label": "movies"
+  },
+  {
+    "text": "что посмотреть",
+    "label": "movies"
+  },
+  {
+    "text": "люблю фильмы",
+    "label": "movies"
+  },
+  {
+    "text": "посоветуй фильм",
+    "label": "movies"
+  },
+  {
+    "text": "мой любимый фильм",
+    "label": "movies"
+  },
+  {
+    "text": "сериал",
+    "label": "movies"
+  },
+  {
+    "text": "кинотеатр",
+    "label": "movies"
+  },
+  {
+    "text": "жанр кино",
+    "label": "movies"
+  },
+  {
+    "text": "хороший фильм",
+    "label": "movies"
+  },
+  {
+    "text": "новинки кино",
+    "label": "movies"
+  },
+  {
+    "text": "новинки фильмов",
+    "label": "movies"
+  },
+  {
+    "text": "какие фильмы вышли",
+    "label": "movies"
+  },
+  {
+    "text": "что нового в кино",
+    "label": "movies"
+  },
+  {
+    "text": "новые фильмы",
+    "label": "movies"
+  },
+  {
+    "text": "свежие фильмы",
+    "label": "movies"
+  },
+  {
+    "text": "премьеры кино",
+    "label": "movies"
+  },
+  {
+    "text": "кинопремьеры",
+    "label": "movies"
+  },
+  {
+    "text": "что идёт в кинотеатрах",
+    "label": "movies"
+  },
+  {
+    "text": "какие сериалы посмотреть",
+    "label": "movies"
+  },
+  {
+    "text": "посоветуй сериал",
+    "label": "movies"
+  },
+  {
+    "text": "что посмотреть вечером",
+    "label": "movies"
+  },
+  {
+    "text": "боевик",
+    "label": "movies"
+  },
+  {
+    "text": "комедия",
+    "label": "movies"
+  },
+  {
+    "text": "драма",
+    "label": "movies"
+  },
+  {
+    "text": "ужасы",
+    "label": "movies"
+  },
+  {
+    "text": "фантастика",
+    "label": "movies"
+  },
+  {
+    "text": "триллер",
+    "label": "movies"
+  },
+  {
+    "text": "что посмотреть из фильмов?",
+    "label": "movies"
+  },
+  {
+    "text": "посоветуй хороший фильм",
+    "label": "movies"
+  },
+  {
+    "text": "какой фильм стоит посмотреть?",
+    "label": "movies"
+  },
+  {
+    "text": "какое кино любишь?",
+    "label": "movies"
+  },
+  {
+    "text": "что нового в мире кино?",
+    "label": "movies"
+  },
+  {
+    "text": "какой у тебя любимый фильм?",
+    "label": "movies"
+  },
+  {
+    "text": "рекомендация на вечер — кино",
+    "label": "movies"
+  },
+  {
+    "text": "какая кинокартина тебе понравилась?",
+    "label": "movies"
+  },
+  {
+    "text": "какие жанры кино предпочитаешь?",
+    "label": "movies"
+  },
+  {
+    "text": "что посмотреть вечером?",
+    "label": "movies"
+  },
+  {
+    "text": "расскажи о кинематографе",
+    "label": "movies"
+  },
+  {
+    "text": "Гиперион, посоветуй фильм",
+    "label": "movies"
+  },
+  {
+    "text": "последний хороший фильм какой был?",
+    "label": "movies"
+  },
+  {
+    "text": "любишь боевики или комедии?",
+    "label": "movies"
+  },
+  {
+    "text": "кино на сегодня что посоветуешь?",
+    "label": "movies"
+  },
+  {
+    "text": "топ фильмов назови",
+    "label": "movies"
+  },
+  {
+    "text": "фильмы и сериалы",
+    "label": "movies"
+  },
+  {
+    "text": "кино на вечер",
+    "label": "movies"
+  },
+  {
+    "text": "что посмотреть интересное",
+    "label": "movies"
+  },
+  {
+    "text": "любимый фильм",
+    "label": "movies"
+  },
+  {
+    "text": "книги",
+    "label": "books"
+  },
+  {
+    "text": "что почитать",
+    "label": "books"
+  },
+  {
+    "text": "люблю читать",
+    "label": "books"
+  },
+  {
+    "text": "литература",
+    "label": "books"
+  },
+  {
+    "text": "посоветуй книгу",
+    "label": "books"
+  },
+  {
+    "text": "моя любимая книга",
+    "label": "books"
+  },
+  {
+    "text": "роман",
+    "label": "books"
+  },
+  {
+    "text": "автор",
+    "label": "books"
+  },
+  {
+    "text": "жанр книги",
+    "label": "books"
+  },
+  {
+    "text": "хорошая книга",
+    "label": "books"
+  },
+  {
+    "text": "чтение",
+    "label": "books"
+  },
+  {
+    "text": "библиотека",
+    "label": "books"
+  },
+  {
+    "text": "детектив",
+    "label": "books"
+  },
+  {
+    "text": "поэзия",
+    "label": "books"
+  },
+  {
+    "text": "классика",
+    "label": "books"
+  },
+  {
+    "text": "посоветуй хорошую книгу",
+    "label": "books"
+  },
+  {
+    "text": "какую книгу стоит почитать?",
+    "label": "books"
+  },
+  {
+    "text": "что интересного почитать?",
+    "label": "books"
+  },
+  {
+    "text": "какая у тебя любимая книга?",
+    "label": "books"
+  },
+  {
+    "text": "какие авторы тебе нравятся?",
+    "label": "books"
+  },
+  {
+    "text": "расскажи о литературе",
+    "label": "books"
+  },
+  {
+    "text": "что читаешь на досуге?",
+    "label": "books"
+  },
+  {
+    "text": "книга на вечер что посоветуешь?",
+    "label": "books"
+  },
+  {
+    "text": "какая книга тебя впечатлила?",
+    "label": "books"
+  },
+  {
+    "text": "посоветуй что-нибудь из литературы",
+    "label": "books"
+  },
+  {
+    "text": "какие жанры книг нравятся?",
+    "label": "books"
+  },
+  {
+    "text": "Гиперион, что почитать?",
+    "label": "books"
+  },
+  {
+    "text": "книжный вкус у тебя какой?",
+    "label": "books"
+  },
+  {
+    "text": "топ книг назови",
+    "label": "books"
+  },
+  {
+    "text": "что посоветуешь из русской классики?",
+    "label": "books"
+  },
+  {
+    "text": "читал недавно что-нибудь хорошее?",
+    "label": "books"
+  },
+  {
+    "text": "интересная книга",
+    "label": "books"
+  },
+  {
+    "text": "роман на выходные",
+    "label": "books"
+  },
+  {
+    "text": "чтение по вечерам",
+    "label": "books"
+  },
+  {
+    "text": "что взять почитать в дорогу",
+    "label": "books"
+  },
+  {
+    "text": "путешествия",
+    "label": "travel"
+  },
+  {
+    "text": "куда поехать",
+    "label": "travel"
+  },
+  {
+    "text": "люблю путешествовать",
+    "label": "travel"
+  },
+  {
+    "text": "отпуск",
+    "label": "travel"
+  },
+  {
+    "text": "поездка",
+    "label": "travel"
+  },
+  {
+    "text": "посоветуй страну",
+    "label": "travel"
+  },
+  {
+    "text": "туризм",
+    "label": "travel"
+  },
+  {
+    "text": "билеты",
+    "label": "travel"
+  },
+  {
+    "text": "отель",
+    "label": "travel"
+  },
+  {
+    "text": "маршрут",
+    "label": "travel"
+  },
+  {
+    "text": "куда слетать",
+    "label": "travel"
+  },
+  {
+    "text": "отдых",
+    "label": "travel"
+  },
+  {
+    "text": "экскурсия",
+    "label": "travel"
+  },
+  {
+    "text": "виза",
+    "label": "travel"
+  },
+  {
+    "text": "чемодан",
+    "label": "travel"
+  },
+  {
+    "text": "аэропорт",
+    "label": "travel"
+  },
+  {
+    "text": "путешествия и поездки",
+    "label": "travel"
+  },
+  {
+    "text": "отпуск и курорт",
+    "label": "travel"
+  },
+  {
+    "text": "куда поехать летом",
+    "label": "travel"
+  },
+  {
+    "text": "туризм и страны",
+    "label": "travel"
+  },
+  {
+    "text": "учеба",
+    "label": "study"
+  },
+  {
+    "text": "учёба",
+    "label": "study"
+  },
+  {
+    "text": "как учиться",
+    "label": "study"
+  },
+  {
+    "text": "помоги с учебой",
+    "label": "study"
+  },
+  {
+    "text": "домашнее задание",
+    "label": "study"
+  },
+  {
+    "text": "предмет",
+    "label": "study"
+  },
+  {
+    "text": "конспект",
+    "label": "study"
+  },
+  {
+    "text": "сессия",
+    "label": "study"
+  },
+  {
+    "text": "зачёт",
+    "label": "study"
+  },
+  {
+    "text": "егэ",
+    "label": "study"
+  },
+  {
+    "text": "огэ",
+    "label": "study"
+  },
+  {
+    "text": "контрольная",
+    "label": "study"
+  },
+  {
+    "text": "курсовая",
+    "label": "study"
+  },
+  {
+    "text": "реферат",
+    "label": "study"
+  },
+  {
+    "text": "учёба и предметы",
+    "label": "study"
+  },
+  {
+    "text": "подготовка к экзаменам",
+    "label": "study"
+  },
+  {
+    "text": "конспекты и уроки",
+    "label": "study"
+  },
+  {
+    "text": "подготовка к экзамену",
+    "label": "study"
+  },
+  {
+    "text": "конспекты",
+    "label": "study"
+  },
+  {
+    "text": "подготовка к занятиям",
+    "label": "study"
+  },
+  {
+    "text": "конспект лекции",
+    "label": "study"
+  },
+  {
+    "text": "работа",
+    "label": "work"
+  },
+  {
+    "text": "работаю",
+    "label": "work"
+  },
+  {
+    "text": "карьера",
+    "label": "work"
+  },
+  {
+    "text": "профессия",
+    "label": "work"
+  },
+  {
+    "text": "как найти работу",
+    "label": "work"
+  },
+  {
+    "text": "устал от работы",
+    "label": "work"
+  },
+  {
+    "text": "начальник",
+    "label": "work"
+  },
+  {
+    "text": "коллеги",
+    "label": "work"
+  },
+  {
+    "text": "зарплата",
+    "label": "work"
+  },
+  {
+    "text": "собеседование",
+    "label": "work"
+  },
+  {
+    "text": "резюме",
+    "label": "work"
+  },
+  {
+    "text": "вакансия",
+    "label": "work"
+  },
+  {
+    "text": "офис",
+    "label": "work"
+  },
+  {
+    "text": "удаленка",
+    "label": "work"
+  },
+  {
+    "text": "фриланс",
+    "label": "work"
+  },
+  {
+    "text": "предпринимательство",
+    "label": "work"
+  },
+  {
+    "text": "работа и офис",
+    "label": "work"
+  },
+  {
+    "text": "карьера и зарплата",
+    "label": "work"
+  },
+  {
+    "text": "начальник и коллеги",
+    "label": "work"
+  },
+  {
+    "text": "ищу работу",
+    "label": "work"
+  },
+  {
+    "text": "технологии",
+    "label": "technology"
+  },
+  {
+    "text": "техника",
+    "label": "technology"
+  },
+  {
+    "text": "гаджеты",
+    "label": "technology"
+  },
+  {
+    "text": "компьютер",
+    "label": "technology"
+  },
+  {
+    "text": "смартфон",
+    "label": "technology"
+  },
+  {
+    "text": "новинки",
+    "label": "technology"
+  },
+  {
+    "text": "it",
+    "label": "technology"
+  },
+  {
+    "text": "программирование",
+    "label": "technology"
+  },
+  {
+    "text": "искусственный интеллект",
+    "label": "technology"
+  },
+  {
+    "text": "роботы",
+    "label": "technology"
+  },
+  {
+    "text": "интернет",
+    "label": "technology"
+  },
+  {
+    "text": "айфон",
+    "label": "technology"
+  },
+  {
+    "text": "андроид",
+    "label": "technology"
+  },
+  {
+    "text": "ноутбук",
+    "label": "technology"
+  },
+  {
+    "text": "процессор",
+    "label": "technology"
+  },
+  {
+    "text": "нейросети",
+    "label": "technology"
+  },
+  {
+    "text": "машинное обучение",
+    "label": "technology"
+  },
+  {
+    "text": "данные",
+    "label": "technology"
+  },
+  {
+    "text": "технологии и гаджеты",
+    "label": "technology"
+  },
+  {
+    "text": "компьютеры и смартфоны",
+    "label": "technology"
+  },
+  {
+    "text": "новинки техники",
+    "label": "technology"
+  },
+  {
+    "text": "роботы и автоматизация",
+    "label": "technology"
+  },
+  {
+    "text": "изобретения",
+    "label": "technology"
+  },
+  {
+    "text": "наука",
+    "label": "science"
+  },
+  {
+    "text": "физика",
+    "label": "science"
+  },
+  {
+    "text": "химия",
+    "label": "science"
+  },
+  {
+    "text": "биология",
+    "label": "science"
+  },
+  {
+    "text": "исследование",
+    "label": "science"
+  },
+  {
+    "text": "открытие",
+    "label": "science"
+  },
+  {
+    "text": "ученый",
+    "label": "science"
+  },
+  {
+    "text": "эксперимент",
+    "label": "science"
+  },
+  {
+    "text": "теория",
+    "label": "science"
+  },
+  {
+    "text": "квант",
+    "label": "science"
+  },
+  {
+    "text": "молекула",
+    "label": "science"
+  },
+  {
+    "text": "днк",
+    "label": "science"
+  },
+  {
+    "text": "эволюция",
+    "label": "science"
+  },
+  {
+    "text": "наука и открытия",
+    "label": "science"
+  },
+  {
+    "text": "научные исследования",
+    "label": "science"
+  },
+  {
+    "text": "физика и биология",
+    "label": "science"
+  },
+  {
+    "text": "учёные и эксперименты",
+    "label": "science"
+  },
+  {
+    "text": "открытия",
+    "label": "science"
+  },
+  {
+    "text": "искусство",
+    "label": "art"
+  },
+  {
+    "text": "живопись",
+    "label": "art"
+  },
+  {
+    "text": "рисование",
+    "label": "art"
+  },
+  {
+    "text": "художник",
+    "label": "art"
+  },
+  {
+    "text": "картина",
+    "label": "art"
+  },
+  {
+    "text": "музей",
+    "label": "art"
+  },
+  {
+    "text": "галерея",
+    "label": "art"
+  },
+  {
+    "text": "скульптура",
+    "label": "art"
+  },
+  {
+    "text": "творчество",
+    "label": "art"
+  },
+  {
+    "text": "дизайн",
+    "label": "art"
+  },
+  {
+    "text": "фотография",
+    "label": "art"
+  },
+  {
+    "text": "театр",
+    "label": "art"
+  },
+  {
+    "text": "балет",
+    "label": "art"
+  },
+  {
+    "text": "опера",
+    "label": "art"
+  },
+  {
+    "text": "музеи и выставки",
+    "label": "art"
+  },
+  {
+    "text": "творчество художника",
+    "label": "art"
+  },
+  {
+    "text": "скульптура и живопись",
+    "label": "art"
+  },
+  {
+    "text": "галерея искусств",
+    "label": "art"
+  },
+  {
+    "text": "что ты думаешь об искусстве",
+    "label": "art"
+  },
+  {
+    "text": "история",
+    "label": "history"
+  },
+  {
+    "text": "прошлое",
+    "label": "history"
+  },
+  {
+    "text": "древний мир",
+    "label": "history"
+  },
+  {
+    "text": "средневековье",
+    "label": "history"
+  },
+  {
+    "text": "революция",
+    "label": "history"
+  },
+  {
+    "text": "историческая личность",
+    "label": "history"
+  },
+  {
+    "text": "цивилизация",
+    "label": "history"
+  },
+  {
+    "text": "археология",
+    "label": "history"
+  },
+  {
+    "text": "эпоха",
+    "label": "history"
+  },
+  {
+    "text": "династия",
+    "label": "history"
+  },
+  {
+    "text": "древний египет",
+    "label": "history"
+  },
+  {
+    "text": "рим",
+    "label": "history"
+  },
+  {
+    "text": "греция",
+    "label": "history"
+  },
+  {
+    "text": "рыцари",
+    "label": "history"
+  },
+  {
+    "text": "короли",
+    "label": "history"
+  },
+  {
+    "text": "империя",
+    "label": "history"
+  },
+  {
+    "text": "история мира",
+    "label": "history"
+  },
+  {
+    "text": "древние цивилизации",
+    "label": "history"
+  },
+  {
+    "text": "исторические события",
+    "label": "history"
+  },
+  {
+    "text": "эпоха рыцарей",
+    "label": "history"
+  },
+  {
+    "text": "эпоха средневековья",
+    "label": "history"
+  },
+  {
+    "text": "исторические эпохи",
+    "label": "history"
+  },
+  {
+    "text": "природа",
+    "label": "nature"
+  },
+  {
+    "text": "лес",
+    "label": "nature"
+  },
+  {
+    "text": "заповедник",
+    "label": "nature"
+  },
+  {
+    "text": "окружающая среда",
+    "label": "nature"
+  },
+  {
+    "text": "озеро",
+    "label": "nature"
+  },
+  {
+    "text": "река",
+    "label": "nature"
+  },
+  {
+    "text": "закат",
+    "label": "nature"
+  },
+  {
+    "text": "рассвет",
+    "label": "nature"
+  },
+  {
+    "text": "природа и лес",
+    "label": "nature"
+  },
+  {
+    "text": "заповедник и звери",
+    "label": "nature"
+  },
+  {
+    "text": "реки и поля",
+    "label": "nature"
+  },
+  {
+    "text": "отдых на природе",
+    "label": "nature"
+  },
+  {
+    "text": "природные зоны",
+    "label": "nature"
+  },
+  {
+    "text": "сохранение природы",
+    "label": "nature"
+  },
+  {
+    "text": "реки и озёра",
+    "label": "nature"
+  },
+  {
+    "text": "лесные животные",
+    "label": "nature"
+  },
+  {
+    "text": "природные заповедники",
+    "label": "nature"
+  },
+  {
+    "text": "горы и леса",
+    "label": "nature"
+  },
+  {
+    "text": "спорт",
+    "label": "sport"
+  },
+  {
+    "text": "футбол",
+    "label": "sport"
+  },
+  {
+    "text": "баскетбол",
+    "label": "sport"
+  },
+  {
+    "text": "хоккей",
+    "label": "sport"
+  },
+  {
+    "text": "теннис",
+    "label": "sport"
+  },
+  {
+    "text": "волейбол",
+    "label": "sport"
+  },
+  {
+    "text": "плавание",
+    "label": "sport"
+  },
+  {
+    "text": "бег",
+    "label": "sport"
+  },
+  {
+    "text": "бокс",
+    "label": "sport"
+  },
+  {
+    "text": "борьба",
+    "label": "sport"
+  },
+  {
+    "text": "йога",
+    "label": "sport"
+  },
+  {
+    "text": "фитнес",
+    "label": "sport"
+  },
+  {
+    "text": "качалка",
+    "label": "sport"
+  },
+  {
+    "text": "тренажерный зал",
+    "label": "sport"
+  },
+  {
+    "text": "олимпиада",
+    "label": "sport"
+  },
+  {
+    "text": "чемпионат",
+    "label": "sport"
+  },
+  {
+    "text": "матч",
+    "label": "sport"
+  },
+  {
+    "text": "команда",
+    "label": "sport"
+  },
+  {
+    "text": "тренировка",
+    "label": "sport"
+  },
+  {
+    "text": "разминка",
+    "label": "sport"
+  },
+  {
+    "text": "спорт и тренировки",
+    "label": "sport"
+  },
+  {
+    "text": "футбол и хоккей",
+    "label": "sport"
+  },
+  {
+    "text": "зал и упражнения",
+    "label": "sport"
+  },
+  {
+    "text": "спортивные соревнования",
+    "label": "sport"
+  },
+  {
+    "text": "машины",
+    "label": "cars"
+  },
+  {
+    "text": "автомобили",
+    "label": "cars"
+  },
+  {
+    "text": "авто",
+    "label": "cars"
+  },
+  {
+    "text": "тачка",
+    "label": "cars"
+  },
+  {
+    "text": "тачки",
+    "label": "cars"
+  },
+  {
+    "text": "бмв",
+    "label": "cars"
+  },
+  {
+    "text": "мерседес",
+    "label": "cars"
+  },
+  {
+    "text": "ауди",
+    "label": "cars"
+  },
+  {
+    "text": "тойота",
+    "label": "cars"
+  },
+  {
+    "text": "хонда",
+    "label": "cars"
+  },
+  {
+    "text": "форд",
+    "label": "cars"
+  },
+  {
+    "text": "ниссан",
+    "label": "cars"
+  },
+  {
+    "text": "лексус",
+    "label": "cars"
+  },
+  {
+    "text": "порше",
+    "label": "cars"
+  },
+  {
+    "text": "феррари",
+    "label": "cars"
+  },
+  {
+    "text": "ламборгини",
+    "label": "cars"
+  },
+  {
+    "text": "электромобиль",
+    "label": "cars"
+  },
+  {
+    "text": "тесла",
+    "label": "cars"
+  },
+  {
+    "text": "двигатель",
+    "label": "cars"
+  },
+  {
+    "text": "скорость",
+    "label": "cars"
+  },
+  {
+    "text": "гонки",
+    "label": "cars"
+  },
+  {
+    "text": "водить",
+    "label": "cars"
+  },
+  {
+    "text": "автомобильные марки",
+    "label": "cars"
+  },
+  {
+    "text": "ремонт авто",
+    "label": "cars"
+  },
+  {
+    "text": "электромобили",
+    "label": "cars"
+  },
+  {
+    "text": "водить машину",
+    "label": "cars"
+  },
+  {
+    "text": "мода",
+    "label": "fashion"
+  },
+  {
+    "text": "стиль",
+    "label": "fashion"
+  },
+  {
+    "text": "одежда",
+    "label": "fashion"
+  },
+  {
+    "text": "что надеть",
+    "label": "fashion"
+  },
+  {
+    "text": "тренды",
+    "label": "fashion"
+  },
+  {
+    "text": "дизайнер",
+    "label": "fashion"
+  },
+  {
+    "text": "бренд",
+    "label": "fashion"
+  },
+  {
+    "text": "шоппинг",
+    "label": "fashion"
+  },
+  {
+    "text": "покупки",
+    "label": "fashion"
+  },
+  {
+    "text": "образ",
+    "label": "fashion"
+  },
+  {
+    "text": "лук",
+    "label": "fashion"
+  },
+  {
+    "text": "аксессуары",
+    "label": "fashion"
+  },
+  {
+    "text": "обувь",
+    "label": "fashion"
+  },
+  {
+    "text": "сумка",
+    "label": "fashion"
+  },
+  {
+    "text": "украшения",
+    "label": "fashion"
+  },
+  {
+    "text": "макияж",
+    "label": "fashion"
+  },
+  {
+    "text": "прическа",
+    "label": "fashion"
+  },
+  {
+    "text": "мода и одежда",
+    "label": "fashion"
+  },
+  {
+    "text": "стильный образ",
+    "label": "fashion"
+  },
+  {
+    "text": "что надеть на встречу",
+    "label": "fashion"
+  },
+  {
+    "text": "тренды сезона",
+    "label": "fashion"
+  },
+  {
+    "text": "космос",
+    "label": "space"
+  },
+  {
+    "text": "звезды",
+    "label": "space"
+  },
+  {
+    "text": "галактика",
+    "label": "space"
+  },
+  {
+    "text": "вселенная",
+    "label": "space"
+  },
+  {
+    "text": "ракета",
+    "label": "space"
+  },
+  {
+    "text": "марс",
+    "label": "space"
+  },
+  {
+    "text": "луна",
+    "label": "space"
+  },
+  {
+    "text": "солнце",
+    "label": "space"
+  },
+  {
+    "text": "черная дыра",
+    "label": "space"
+  },
+  {
+    "text": "нло",
+    "label": "space"
+  },
+  {
+    "text": "пришельцы",
+    "label": "space"
+  },
+  {
+    "text": "астронавт",
+    "label": "space"
+  },
+  {
+    "text": "космонавт",
+    "label": "space"
+  },
+  {
+    "text": "исследование космоса",
+    "label": "space"
+  },
+  {
+    "text": "полет в космос",
+    "label": "space"
+  },
+  {
+    "text": "космический корабль",
+    "label": "space"
+  },
+  {
+    "text": "космическая станция",
+    "label": "space"
+  },
+  {
+    "text": "мкс",
+    "label": "space"
+  },
+  {
+    "text": "космический туризм",
+    "label": "space"
+  },
+  {
+    "text": "колонизация марса",
+    "label": "space"
+  },
+  {
+    "text": "жизнь на других планетах",
+    "label": "space"
+  },
+  {
+    "text": "инопланетяне",
+    "label": "space"
+  },
+  {
+    "text": "космос и планеты",
+    "label": "space"
+  },
+  {
+    "text": "звёзды и галактики",
+    "label": "space"
+  },
+  {
+    "text": "космические полёты",
+    "label": "space"
+  },
+  {
+    "text": "космонавты",
+    "label": "space"
+  },
+  {
+    "text": "космические миссии",
+    "label": "space"
+  },
+  {
+    "text": "космические аппараты",
+    "label": "space"
+  },
+  {
+    "text": "полёты на Луну",
+    "label": "space"
+  },
+  {
+    "text": "психология",
+    "label": "psychology"
+  },
+  {
+    "text": "психика",
+    "label": "psychology"
+  },
+  {
+    "text": "эмоции",
+    "label": "psychology"
+  },
+  {
+    "text": "чувства",
+    "label": "psychology"
+  },
+  {
+    "text": "мышление",
+    "label": "psychology"
+  },
+  {
+    "text": "сознание",
+    "label": "psychology"
+  },
+  {
+    "text": "подсознание",
+    "label": "psychology"
+  },
+  {
+    "text": "характер",
+    "label": "psychology"
+  },
+  {
+    "text": "темперамент",
+    "label": "psychology"
+  },
+  {
+    "text": "личность",
+    "label": "psychology"
+  },
+  {
+    "text": "тревога",
+    "label": "psychology"
+  },
+  {
+    "text": "стресс",
+    "label": "psychology"
+  },
+  {
+    "text": "самооценка",
+    "label": "psychology"
+  },
+  {
+    "text": "уверенность",
+    "label": "psychology"
+  },
+  {
+    "text": "депрессия",
+    "label": "psychology"
+  },
+  {
+    "text": "терапия",
+    "label": "psychology"
+  },
+  {
+    "text": "психолог",
+    "label": "psychology"
+  },
+  {
+    "text": "психология и эмоции",
+    "label": "psychology"
+  },
+  {
+    "text": "чувства и переживания",
+    "label": "psychology"
+  },
+  {
+    "text": "психика человека",
+    "label": "psychology"
+  },
+  {
+    "text": "внутреннее состояние",
+    "label": "psychology"
+  },
+  {
+    "text": "философия",
+    "label": "philosophy"
+  },
+  {
+    "text": "смысл жизни",
+    "label": "philosophy"
+  },
+  {
+    "text": "бытие",
+    "label": "philosophy"
+  },
+  {
+    "text": "мораль",
+    "label": "philosophy"
+  },
+  {
+    "text": "этика",
+    "label": "philosophy"
+  },
+  {
+    "text": "свобода",
+    "label": "philosophy"
+  },
+  {
+    "text": "истина",
+    "label": "philosophy"
+  },
+  {
+    "text": "познание",
+    "label": "philosophy"
+  },
+  {
+    "text": "диалектика",
+    "label": "philosophy"
+  },
+  {
+    "text": "экзистенциализм",
+    "label": "philosophy"
+  },
+  {
+    "text": "стоицизм",
+    "label": "philosophy"
+  },
+  {
+    "text": "нигилизм",
+    "label": "philosophy"
+  },
+  {
+    "text": "идеализм",
+    "label": "philosophy"
+  },
+  {
+    "text": "материализм",
+    "label": "philosophy"
+  },
+  {
+    "text": "мудрость",
+    "label": "philosophy"
+  },
+  {
+    "text": "философия и смысл",
+    "label": "philosophy"
+  },
+  {
+    "text": "о смысле бытия",
+    "label": "philosophy"
+  },
+  {
+    "text": "мораль и ценности",
+    "label": "philosophy"
+  },
+  {
+    "text": "размышления о жизни",
+    "label": "philosophy"
+  },
+  {
+    "text": "языки",
+    "label": "language"
+  },
+  {
+    "text": "английский",
+    "label": "language"
+  },
+  {
+    "text": "немецкий",
+    "label": "language"
+  },
+  {
+    "text": "французский",
+    "label": "language"
+  },
+  {
+    "text": "испанский",
+    "label": "language"
+  },
+  {
+    "text": "китайский",
+    "label": "language"
+  },
+  {
+    "text": "японский",
+    "label": "language"
+  },
+  {
+    "text": "итальянский",
+    "label": "language"
+  },
+  {
+    "text": "изучаю язык",
+    "label": "language"
+  },
+  {
+    "text": "как учить язык",
+    "label": "language"
+  },
+  {
+    "text": "перевод",
+    "label": "language"
+  },
+  {
+    "text": "грамматика",
+    "label": "language"
+  },
+  {
+    "text": "лексика",
+    "label": "language"
+  },
+  {
+    "text": "произношение",
+    "label": "language"
+  },
+  {
+    "text": "разговорный",
+    "label": "language"
+  },
+  {
+    "text": "иностранные языки",
+    "label": "language"
+  },
+  {
+    "text": "учить английский",
+    "label": "language"
+  },
+  {
+    "text": "языковой барьер",
+    "label": "language"
+  },
+  {
+    "text": "какие языки бывают",
+    "label": "language"
+  },
+  {
+    "text": "смешно",
+    "label": "humor"
+  },
+  {
+    "text": "ха-ха",
+    "label": "humor"
+  },
+  {
+    "text": "лол",
+    "label": "humor"
+  },
+  {
+    "text": "ржака",
+    "label": "humor"
+  },
+  {
+    "text": "прикол",
+    "label": "humor"
+  },
+  {
+    "text": "мем",
+    "label": "humor"
+  },
+  {
+    "text": "мемы",
+    "label": "humor"
+  },
+  {
+    "text": "шутки",
+    "label": "humor"
+  },
+  {
+    "text": "юмор",
+    "label": "humor"
+  },
+  {
+    "text": "смеяться",
+    "label": "humor"
+  },
+  {
+    "text": "весело",
+    "label": "humor"
+  },
+  {
+    "text": "забавно",
+    "label": "humor"
+  },
+  {
+    "text": "угар",
+    "label": "humor"
+  },
+  {
+    "text": "мне смешно",
+    "label": "humor"
+  },
+  {
+    "text": "смешная шутка",
+    "label": "humor"
+  },
+  {
+    "text": "ржачно вышло",
+    "label": "humor"
+  },
+  {
+    "text": "весело и смешно",
+    "label": "humor"
+  },
+  {
+    "text": "мотивация",
+    "label": "motivation"
+  },
+  {
+    "text": "как мотивировать себя",
+    "label": "motivation"
+  },
+  {
+    "text": "нет сил",
+    "label": "motivation"
+  },
+  {
+    "text": "лень",
+    "label": "motivation"
+  },
+  {
+    "text": "не хочу ничего делать",
+    "label": "motivation"
+  },
+  {
+    "text": "как начать",
+    "label": "motivation"
+  },
+  {
+    "text": "поддержи меня",
+    "label": "motivation"
+  },
+  {
+    "text": "вдохнови меня",
+    "label": "motivation"
+  },
+  {
+    "text": "как добиться цели",
+    "label": "motivation"
+  },
+  {
+    "text": "прокрастинация",
+    "label": "motivation"
+  },
+  {
+    "text": "дисциплина",
+    "label": "motivation"
+  },
+  {
+    "text": "мотивация и цели",
+    "label": "motivation"
+  },
+  {
+    "text": "как начать действовать",
+    "label": "motivation"
+  },
+  {
+    "text": "пропала мотивация",
+    "label": "motivation"
+  },
+  {
+    "text": "сила воли",
+    "label": "motivation"
+  },
+  {
+    "text": "как найти мотивацию",
+    "label": "motivation"
+  },
+  {
+    "text": "нет желания работать",
+    "label": "motivation"
+  },
+  {
+    "text": "как заставить себя",
+    "label": "motivation"
+  },
+  {
+    "text": "о чем поговорим",
+    "label": "smalltalk"
+  },
+  {
+    "text": "давай поговорим",
+    "label": "smalltalk"
+  },
+  {
+    "text": "поболтаем",
+    "label": "smalltalk"
+  },
+  {
+    "text": "скучно",
+    "label": "smalltalk"
+  },
+  {
+    "text": "чем заняться",
+    "label": "smalltalk"
+  },
+  {
+    "text": "расскажи что-нибудь",
+    "label": "smalltalk"
+  },
+  {
+    "text": "интересно",
+    "label": "smalltalk"
+  },
+  {
+    "text": "развлеки меня",
+    "label": "smalltalk"
+  },
+  {
+    "text": "поговори со мной",
+    "label": "smalltalk"
+  },
+  {
+    "text": "поболтаем?",
+    "label": "smalltalk"
+  },
+  {
+    "text": "о чём поговорить",
+    "label": "smalltalk"
+  },
+  {
+    "text": "скучно, поговори со мной",
+    "label": "smalltalk"
+  },
+  {
+    "text": "расскажи факт",
+    "label": "fact"
+  },
+  {
+    "text": "интересный факт",
+    "label": "fact"
+  },
+  {
+    "text": "знаешь факт",
+    "label": "fact"
+  },
+  {
+    "text": "удиви меня",
+    "label": "fact"
+  },
+  {
+    "text": "расскажи что-то интересное",
+    "label": "fact"
+  },
+  {
+    "text": "факты",
+    "label": "fact"
+  },
+  {
+    "text": "познавательное",
+    "label": "fact"
+  },
+  {
+    "text": "любопытно",
+    "label": "fact"
+  },
+  {
+    "text": "расскажи что-нибудь интересное",
+    "label": "fact"
+  },
+  {
+    "text": "расскажи что-нибудь любопытное",
+    "label": "fact"
+  },
+  {
+    "text": "расскажи что-нибудь необычное",
+    "label": "fact"
+  },
+  {
+    "text": "расскажи что-нибудь познавательное",
+    "label": "fact"
+  },
+  {
+    "text": "удиви меня чем-нибудь",
+    "label": "fact"
+  },
+  {
+    "text": "порази меня знанием",
+    "label": "fact"
+  },
+  {
+    "text": "дай мне интересный факт",
+    "label": "fact"
+  },
+  {
+    "text": "поделись знаниями",
+    "label": "fact"
+  },
+  {
+    "text": "а ты знаешь что-нибудь интересное?",
+    "label": "fact"
+  },
+  {
+    "text": "интересный факт на сегодня",
+    "label": "fact"
+  },
+  {
+    "text": "история из мира знаний",
+    "label": "fact"
+  },
+  {
+    "text": "брось мне фактик",
+    "label": "fact"
+  },
+  {
+    "text": "чем меня удивишь?",
+    "label": "fact"
+  },
+  {
+    "text": "какой у тебя самый интересный факт?",
+    "label": "fact"
+  },
+  {
+    "text": "Гиперион, расскажи что-нибудь интересное",
+    "label": "fact"
+  },
+  {
+    "text": "выплюнь интересный факт",
+    "label": "fact"
+  },
+  {
+    "text": "знания в студию",
+    "label": "fact"
+  },
+  {
+    "text": "хочешь меня удивить?",
+    "label": "fact"
+  },
+  {
+    "text": "расскажи интересный факт",
+    "label": "fact"
+  },
+  {
+    "text": "удиви меня фактом",
+    "label": "fact"
+  },
+  {
+    "text": "знаешь что-то необычное",
+    "label": "fact"
+  },
+  {
+    "text": "поделись фактом",
+    "label": "fact"
+  },
+  {
+    "text": "интересные факты",
+    "label": "fact"
+  },
+  {
+    "text": "удивительный факт",
+    "label": "fact"
+  },
+  {
+    "text": "научный факт",
+    "label": "fact"
+  },
+  {
+    "text": "религия",
+    "label": "religion"
+  },
+  {
+    "text": "вера",
+    "label": "religion"
+  },
+  {
+    "text": "бог",
+    "label": "religion"
+  },
+  {
+    "text": "христианство",
+    "label": "religion"
+  },
+  {
+    "text": "ислам",
+    "label": "religion"
+  },
+  {
+    "text": "буддизм",
+    "label": "religion"
+  },
+  {
+    "text": "иудаизм",
+    "label": "religion"
+  },
+  {
+    "text": "индуизм",
+    "label": "religion"
+  },
+  {
+    "text": "церковь",
+    "label": "religion"
+  },
+  {
+    "text": "мечеть",
+    "label": "religion"
+  },
+  {
+    "text": "храм",
+    "label": "religion"
+  },
+  {
+    "text": "молитва",
+    "label": "religion"
+  },
+  {
+    "text": "духовность",
+    "label": "religion"
+  },
+  {
+    "text": "религиозный",
+    "label": "religion"
+  },
+  {
+    "text": "атеизм",
+    "label": "religion"
+  },
+  {
+    "text": "агностик",
+    "label": "religion"
+  },
+  {
+    "text": "секта",
+    "label": "religion"
+  },
+  {
+    "text": "обряд",
+    "label": "religion"
+  },
+  {
+    "text": "писание",
+    "label": "religion"
+  },
+  {
+    "text": "библия",
+    "label": "religion"
+  },
+  {
+    "text": "коран",
+    "label": "religion"
+  },
+  {
+    "text": "тора",
+    "label": "religion"
+  },
+  {
+    "text": "религия и вера",
+    "label": "religion"
+  },
+  {
+    "text": "церковь и традиции",
+    "label": "religion"
+  },
+  {
+    "text": "вера в бога",
+    "label": "religion"
+  },
+  {
+    "text": "политика",
+    "label": "politics"
+  },
+  {
+    "text": "правительство",
+    "label": "politics"
+  },
+  {
+    "text": "президент",
+    "label": "politics"
+  },
+  {
+    "text": "парламент",
+    "label": "politics"
+  },
+  {
+    "text": "выборы",
+    "label": "politics"
+  },
+  {
+    "text": "партия",
+    "label": "politics"
+  },
+  {
+    "text": "государство",
+    "label": "politics"
+  },
+  {
+    "text": "власть",
+    "label": "politics"
+  },
+  {
+    "text": "депутат",
+    "label": "politics"
+  },
+  {
+    "text": "министр",
+    "label": "politics"
+  },
+  {
+    "text": "политик",
+    "label": "politics"
+  },
+  {
+    "text": "демократия",
+    "label": "politics"
+  },
+  {
+    "text": "автократия",
+    "label": "politics"
+  },
+  {
+    "text": "протест",
+    "label": "politics"
+  },
+  {
+    "text": "международные отношения",
+    "label": "politics"
+  },
+  {
+    "text": "санкции",
+    "label": "politics"
+  },
+  {
+    "text": "политика и власть",
+    "label": "politics"
+  },
+  {
+    "text": "выборы и голосование",
+    "label": "politics"
+  },
+  {
+    "text": "партии и депутаты",
+    "label": "politics"
+  },
+  {
+    "text": "государство и законы",
+    "label": "politics"
+  },
+  {
+    "text": "экономика",
+    "label": "economics"
+  },
+  {
+    "text": "деньги",
+    "label": "economics"
+  },
+  {
+    "text": "финансы",
+    "label": "economics"
+  },
+  {
+    "text": "инвестиции",
+    "label": "economics"
+  },
+  {
+    "text": "акции",
+    "label": "economics"
+  },
+  {
+    "text": "облигации",
+    "label": "economics"
+  },
+  {
+    "text": "криптовалюта",
+    "label": "economics"
+  },
+  {
+    "text": "биткоин",
+    "label": "economics"
+  },
+  {
+    "text": "банк",
+    "label": "economics"
+  },
+  {
+    "text": "кредит",
+    "label": "economics"
+  },
+  {
+    "text": "ипотека",
+    "label": "economics"
+  },
+  {
+    "text": "бюджет",
+    "label": "economics"
+  },
+  {
+    "text": "налог",
+    "label": "economics"
+  },
+  {
+    "text": "инфляция",
+    "label": "economics"
+  },
+  {
+    "text": "рынок",
+    "label": "economics"
+  },
+  {
+    "text": "бизнес",
+    "label": "economics"
+  },
+  {
+    "text": "стартап",
+    "label": "economics"
+  },
+  {
+    "text": "прибыль",
+    "label": "economics"
+  },
+  {
+    "text": "убыток",
+    "label": "economics"
+  },
+  {
+    "text": "экономика и финансы",
+    "label": "economics"
+  },
+  {
+    "text": "банки и вклады",
+    "label": "economics"
+  },
+  {
+    "text": "цены и инфляция",
+    "label": "economics"
+  },
+  {
+    "text": "бюджет на месяц",
+    "label": "economics"
+  },
+  {
+    "text": "валютный рынок",
+    "label": "economics"
+  },
+  {
+    "text": "фондовый рынок",
+    "label": "economics"
+  },
+  {
+    "text": "закон",
+    "label": "law"
+  },
+  {
+    "text": "право",
+    "label": "law"
+  },
+  {
+    "text": "юрист",
+    "label": "law"
+  },
+  {
+    "text": "суд",
+    "label": "law"
+  },
+  {
+    "text": "адвокат",
+    "label": "law"
+  },
+  {
+    "text": "прокурор",
+    "label": "law"
+  },
+  {
+    "text": "преступление",
+    "label": "law"
+  },
+  {
+    "text": "наказание",
+    "label": "law"
+  },
+  {
+    "text": "конституция",
+    "label": "law"
+  },
+  {
+    "text": "кодекс",
+    "label": "law"
+  },
+  {
+    "text": "права человека",
+    "label": "law"
+  },
+  {
+    "text": "ответственность",
+    "label": "law"
+  },
+  {
+    "text": "договор",
+    "label": "law"
+  },
+  {
+    "text": "иск",
+    "label": "law"
+  },
+  {
+    "text": "уголовный",
+    "label": "law"
+  },
+  {
+    "text": "гражданский",
+    "label": "law"
+  },
+  {
+    "text": "административный",
+    "label": "law"
+  },
+  {
+    "text": "законы и право",
+    "label": "law"
+  },
+  {
+    "text": "юрист и суд",
+    "label": "law"
+  },
+  {
+    "text": "правовые нормы",
+    "label": "law"
+  },
+  {
+    "text": "юридические вопросы",
+    "label": "law"
+  },
+  {
+    "text": "медицина",
+    "label": "medicine"
+  },
+  {
+    "text": "врач",
+    "label": "medicine"
+  },
+  {
+    "text": "больница",
+    "label": "medicine"
+  },
+  {
+    "text": "лечение",
+    "label": "medicine"
+  },
+  {
+    "text": "лекарство",
+    "label": "medicine"
+  },
+  {
+    "text": "диагноз",
+    "label": "medicine"
+  },
+  {
+    "text": "симптом",
+    "label": "medicine"
+  },
+  {
+    "text": "болезнь",
+    "label": "medicine"
+  },
+  {
+    "text": "хирургия",
+    "label": "medicine"
+  },
+  {
+    "text": "аптека",
+    "label": "medicine"
+  },
+  {
+    "text": "прививка",
+    "label": "medicine"
+  },
+  {
+    "text": "анализ",
+    "label": "medicine"
+  },
+  {
+    "text": "операция",
+    "label": "medicine"
+  },
+  {
+    "text": "психиатрия",
+    "label": "medicine"
+  },
+  {
+    "text": "стоматолог",
+    "label": "medicine"
+  },
+  {
+    "text": "медицина и врачи",
+    "label": "medicine"
+  },
+  {
+    "text": "болезни и лечение",
+    "label": "medicine"
+  },
+  {
+    "text": "таблетки и аптека",
+    "label": "medicine"
+  },
+  {
+    "text": "поход к врачу",
+    "label": "medicine"
+  },
+  {
+    "text": "образование",
+    "label": "education"
+  },
+  {
+    "text": "школа",
+    "label": "education"
+  },
+  {
+    "text": "вуз",
+    "label": "education"
+  },
+  {
+    "text": "университет",
+    "label": "education"
+  },
+  {
+    "text": "колледж",
+    "label": "education"
+  },
+  {
+    "text": "учитель",
+    "label": "education"
+  },
+  {
+    "text": "преподаватель",
+    "label": "education"
+  },
+  {
+    "text": "студент",
+    "label": "education"
+  },
+  {
+    "text": "ученик",
+    "label": "education"
+  },
+  {
+    "text": "урок",
+    "label": "education"
+  },
+  {
+    "text": "лекция",
+    "label": "education"
+  },
+  {
+    "text": "семинар",
+    "label": "education"
+  },
+  {
+    "text": "экзамен",
+    "label": "education"
+  },
+  {
+    "text": "диплом",
+    "label": "education"
+  },
+  {
+    "text": "степень",
+    "label": "education"
+  },
+  {
+    "text": "обучение",
+    "label": "education"
+  },
+  {
+    "text": "курс",
+    "label": "education"
+  },
+  {
+    "text": "тренинг",
+    "label": "education"
+  },
+  {
+    "text": "как воспитать ребенка гением",
+    "label": "education"
+  },
+  {
+    "text": "школа и уроки",
+    "label": "education"
+  },
+  {
+    "text": "учиться в вузе",
+    "label": "education"
+  },
+  {
+    "text": "высшее образование",
+    "label": "education"
+  },
+  {
+    "text": "детский сад и учёба",
+    "label": "education"
+  },
+  {
+    "text": "школьное образование",
+    "label": "education"
+  },
+  {
+    "text": "образовательная система",
+    "label": "education"
+  },
+  {
+    "text": "поступление",
+    "label": "education"
+  },
+  {
+    "text": "учебные заведения",
+    "label": "education"
+  },
+  {
+    "text": "школьные предметы",
+    "label": "education"
+  },
+  {
+    "text": "вузовские специальности",
+    "label": "education"
+  },
+  {
+    "text": "медиа",
+    "label": "media"
+  },
+  {
+    "text": "сми",
+    "label": "media"
+  },
+  {
+    "text": "новости",
+    "label": "media"
+  },
+  {
+    "text": "газета",
+    "label": "media"
+  },
+  {
+    "text": "журнал",
+    "label": "media"
+  },
+  {
+    "text": "телевидение",
+    "label": "media"
+  },
+  {
+    "text": "радио",
+    "label": "media"
+  },
+  {
+    "text": "соцсети",
+    "label": "media"
+  },
+  {
+    "text": "блог",
+    "label": "media"
+  },
+  {
+    "text": "журналист",
+    "label": "media"
+  },
+  {
+    "text": "репортаж",
+    "label": "media"
+  },
+  {
+    "text": "интервью",
+    "label": "media"
+  },
+  {
+    "text": "пресса",
+    "label": "media"
+  },
+  {
+    "text": "реклама",
+    "label": "media"
+  },
+  {
+    "text": "пиар",
+    "label": "media"
+  },
+  {
+    "text": "новости и пресса",
+    "label": "media"
+  },
+  {
+    "text": "сми и телевидение",
+    "label": "media"
+  },
+  {
+    "text": "газеты и журналы",
+    "label": "media"
+  },
+  {
+    "text": "что пишут в новостях",
+    "label": "media"
+  },
+  {
+    "text": "армия",
+    "label": "military"
+  },
+  {
+    "text": "военные",
+    "label": "military"
+  },
+  {
+    "text": "солдат",
+    "label": "military"
+  },
+  {
+    "text": "офицер",
+    "label": "military"
+  },
+  {
+    "text": "оружие",
+    "label": "military"
+  },
+  {
+    "text": "танк",
+    "label": "military"
+  },
+  {
+    "text": "самолет",
+    "label": "military"
+  },
+  {
+    "text": "война",
+    "label": "military"
+  },
+  {
+    "text": "битва",
+    "label": "military"
+  },
+  {
+    "text": "оборона",
+    "label": "military"
+  },
+  {
+    "text": "служба",
+    "label": "military"
+  },
+  {
+    "text": "призыв",
+    "label": "military"
+  },
+  {
+    "text": "ветеран",
+    "label": "military"
+  },
+  {
+    "text": "генерал",
+    "label": "military"
+  },
+  {
+    "text": "спецназ",
+    "label": "military"
+  },
+  {
+    "text": "армия и служба",
+    "label": "military"
+  },
+  {
+    "text": "военные учения",
+    "label": "military"
+  },
+  {
+    "text": "солдаты и форма",
+    "label": "military"
+  },
+  {
+    "text": "вооружение",
+    "label": "military"
+  },
+  {
+    "text": "боевая техника",
+    "label": "military"
+  },
+  {
+    "text": "армия и флот",
+    "label": "military"
+  },
+  {
+    "text": "сельское хозяйство",
+    "label": "agriculture"
+  },
+  {
+    "text": "ферма",
+    "label": "agriculture"
+  },
+  {
+    "text": "пшеница",
+    "label": "agriculture"
+  },
+  {
+    "text": "кукуруза",
+    "label": "agriculture"
+  },
+  {
+    "text": "картофель",
+    "label": "agriculture"
+  },
+  {
+    "text": "животноводство",
+    "label": "agriculture"
+  },
+  {
+    "text": "птицеводство",
+    "label": "agriculture"
+  },
+  {
+    "text": "пчеловодство",
+    "label": "agriculture"
+  },
+  {
+    "text": "трактор",
+    "label": "agriculture"
+  },
+  {
+    "text": "посев",
+    "label": "agriculture"
+  },
+  {
+    "text": "работа на ферме",
+    "label": "agriculture"
+  },
+  {
+    "text": "урожай зерна",
+    "label": "agriculture"
+  },
+  {
+    "text": "агрономия и поля",
+    "label": "agriculture"
+  },
+  {
+    "text": "посевная кампания",
+    "label": "agriculture"
+  },
+  {
+    "text": "пшеничное поле",
+    "label": "agriculture"
+  },
+  {
+    "text": "работа фермера",
+    "label": "agriculture"
+  },
+  {
+    "text": "сельхозтехника",
+    "label": "agriculture"
+  },
+  {
+    "text": "строительство",
+    "label": "construction"
+  },
+  {
+    "text": "стройка",
+    "label": "construction"
+  },
+  {
+    "text": "дом",
+    "label": "construction"
+  },
+  {
+    "text": "здание",
+    "label": "construction"
+  },
+  {
+    "text": "архитектура",
+    "label": "construction"
+  },
+  {
+    "text": "ремонт",
+    "label": "construction"
+  },
+  {
+    "text": "бетон",
+    "label": "construction"
+  },
+  {
+    "text": "кирпич",
+    "label": "construction"
+  },
+  {
+    "text": "фундамент",
+    "label": "construction"
+  },
+  {
+    "text": "кран",
+    "label": "construction"
+  },
+  {
+    "text": "прораб",
+    "label": "construction"
+  },
+  {
+    "text": "строитель",
+    "label": "construction"
+  },
+  {
+    "text": "чертеж",
+    "label": "construction"
+  },
+  {
+    "text": "проект дома",
+    "label": "construction"
+  },
+  {
+    "text": "квартира",
+    "label": "construction"
+  },
+  {
+    "text": "стройка и ремонт",
+    "label": "construction"
+  },
+  {
+    "text": "возведение дома",
+    "label": "construction"
+  },
+  {
+    "text": "стройматериалы",
+    "label": "construction"
+  },
+  {
+    "text": "архитектура и здания",
+    "label": "construction"
+  },
+  {
+    "text": "транспорт",
+    "label": "transport"
+  },
+  {
+    "text": "машина",
+    "label": "transport"
+  },
+  {
+    "text": "автобус",
+    "label": "transport"
+  },
+  {
+    "text": "поезд",
+    "label": "transport"
+  },
+  {
+    "text": "метро",
+    "label": "transport"
+  },
+  {
+    "text": "трамвай",
+    "label": "transport"
+  },
+  {
+    "text": "троллейбус",
+    "label": "transport"
+  },
+  {
+    "text": "корабль",
+    "label": "transport"
+  },
+  {
+    "text": "велосипед",
+    "label": "transport"
+  },
+  {
+    "text": "мотоцикл",
+    "label": "transport"
+  },
+  {
+    "text": "такси",
+    "label": "transport"
+  },
+  {
+    "text": "пробки",
+    "label": "transport"
+  },
+  {
+    "text": "дорога",
+    "label": "transport"
+  },
+  {
+    "text": "билет",
+    "label": "transport"
+  },
+  {
+    "text": "рейс",
+    "label": "transport"
+  },
+  {
+    "text": "вокзал",
+    "label": "transport"
+  },
+  {
+    "text": "транспорт и поездки",
+    "label": "transport"
+  },
+  {
+    "text": "автобусы и поезда",
+    "label": "transport"
+  },
+  {
+    "text": "метро и трамваи",
+    "label": "transport"
+  },
+  {
+    "text": "как доехать",
+    "label": "transport"
+  },
+  {
+    "text": "энергия",
+    "label": "energy"
+  },
+  {
+    "text": "электричество",
+    "label": "energy"
+  },
+  {
+    "text": "нефть",
+    "label": "energy"
+  },
+  {
+    "text": "газ",
+    "label": "energy"
+  },
+  {
+    "text": "уголь",
+    "label": "energy"
+  },
+  {
+    "text": "солнечная энергия",
+    "label": "energy"
+  },
+  {
+    "text": "ветряная энергия",
+    "label": "energy"
+  },
+  {
+    "text": "атомная энергия",
+    "label": "energy"
+  },
+  {
+    "text": "гидроэнергия",
+    "label": "energy"
+  },
+  {
+    "text": "электростанция",
+    "label": "energy"
+  },
+  {
+    "text": "батарея",
+    "label": "energy"
+  },
+  {
+    "text": "топливо",
+    "label": "energy"
+  },
+  {
+    "text": "возобновляемые источники",
+    "label": "energy"
+  },
+  {
+    "text": "энергия и ресурсы",
+    "label": "energy"
+  },
+  {
+    "text": "ветряные станции",
+    "label": "energy"
+  },
+  {
+    "text": "электричество в доме",
+    "label": "energy"
+  },
+  {
+    "text": "нефть и газ",
+    "label": "energy"
+  },
+  {
+    "text": "энергосбережение",
+    "label": "energy"
+  },
+  {
+    "text": "экология",
+    "label": "ecology"
+  },
+  {
+    "text": "загрязнение",
+    "label": "ecology"
+  },
+  {
+    "text": "мусор",
+    "label": "ecology"
+  },
+  {
+    "text": "переработка",
+    "label": "ecology"
+  },
+  {
+    "text": "глобальное потепление",
+    "label": "ecology"
+  },
+  {
+    "text": "озон",
+    "label": "ecology"
+  },
+  {
+    "text": "вымирание",
+    "label": "ecology"
+  },
+  {
+    "text": "защита природы",
+    "label": "ecology"
+  },
+  {
+    "text": "зеленые технологии",
+    "label": "ecology"
+  },
+  {
+    "text": "пластик",
+    "label": "ecology"
+  },
+  {
+    "text": "выбросы",
+    "label": "ecology"
+  },
+  {
+    "text": "парниковый эффект",
+    "label": "ecology"
+  },
+  {
+    "text": "заботимся об экологии",
+    "label": "ecology"
+  },
+  {
+    "text": "мусор и переработка",
+    "label": "ecology"
+  },
+  {
+    "text": "чистый воздух и природа",
+    "label": "ecology"
+  },
+  {
+    "text": "эко-привычки",
+    "label": "ecology"
+  },
+  {
+    "text": "благотворительность",
+    "label": "charity"
+  },
+  {
+    "text": "волонтер",
+    "label": "charity"
+  },
+  {
+    "text": "донат",
+    "label": "charity"
+  },
+  {
+    "text": "пожертвование",
+    "label": "charity"
+  },
+  {
+    "text": "фонд",
+    "label": "charity"
+  },
+  {
+    "text": "милосердие",
+    "label": "charity"
+  },
+  {
+    "text": "доброта",
+    "label": "charity"
+  },
+  {
+    "text": "помогать людям",
+    "label": "charity"
+  },
+  {
+    "text": "социальная помощь",
+    "label": "charity"
+  },
+  {
+    "text": "нуждающиеся",
+    "label": "charity"
+  },
+  {
+    "text": "пожертвовать на добро",
+    "label": "charity"
+  },
+  {
+    "text": "добрые дела и фонды",
+    "label": "charity"
+  },
+  {
+    "text": "волонтёрить",
+    "label": "charity"
+  },
+  {
+    "text": "пожертвовать в фонд",
+    "label": "charity"
+  },
+  {
+    "text": "волонтёрская деятельность",
+    "label": "charity"
+  },
+  {
+    "text": "благотворительный фонд",
+    "label": "charity"
+  },
+  {
+    "text": "помощь сиротам",
+    "label": "charity"
+  },
+  {
+    "text": "семья",
+    "label": "family"
+  },
+  {
+    "text": "родители",
+    "label": "family"
+  },
+  {
+    "text": "мама",
+    "label": "family"
+  },
+  {
+    "text": "папа",
+    "label": "family"
+  },
+  {
+    "text": "брат",
+    "label": "family"
+  },
+  {
+    "text": "сестра",
+    "label": "family"
+  },
+  {
+    "text": "дети",
+    "label": "family"
+  },
+  {
+    "text": "ребенок",
+    "label": "family"
+  },
+  {
+    "text": "бабушка",
+    "label": "family"
+  },
+  {
+    "text": "дедушка",
+    "label": "family"
+  },
+  {
+    "text": "родственники",
+    "label": "family"
+  },
+  {
+    "text": "жена",
+    "label": "family"
+  },
+  {
+    "text": "муж",
+    "label": "family"
+  },
+  {
+    "text": "отношения",
+    "label": "family"
+  },
+  {
+    "text": "быт",
+    "label": "family"
+  },
+  {
+    "text": "воспитание",
+    "label": "family"
+  },
+  {
+    "text": "моего мужа зовут влад",
+    "label": "family"
+  },
+  {
+    "text": "моя семья",
+    "label": "family"
+  },
+  {
+    "text": "родственники и близкие",
+    "label": "family"
+  },
+  {
+    "text": "мама и папа",
+    "label": "family"
+  },
+  {
+    "text": "дети и родители",
+    "label": "family"
+  },
+  {
+    "text": "родные и близкие",
+    "label": "family"
+  },
+  {
+    "text": "семейные отношения",
+    "label": "family"
+  },
+  {
+    "text": "животные",
+    "label": "animals"
+  },
+  {
+    "text": "звери",
+    "label": "animals"
+  },
+  {
+    "text": "кошки",
+    "label": "animals"
+  },
+  {
+    "text": "собаки",
+    "label": "animals"
+  },
+  {
+    "text": "собака",
+    "label": "animals"
+  },
+  {
+    "text": "кошка",
+    "label": "animals"
+  },
+  {
+    "text": "питомец",
+    "label": "animals"
+  },
+  {
+    "text": "домашние животные",
+    "label": "animals"
+  },
+  {
+    "text": "дикие животные",
+    "label": "animals"
+  },
+  {
+    "text": "птицы",
+    "label": "animals"
+  },
+  {
+    "text": "рыбы",
+    "label": "animals"
+  },
+  {
+    "text": "насекомые",
+    "label": "animals"
+  },
+  {
+    "text": "рептилии",
+    "label": "animals"
+  },
+  {
+    "text": "грызуны",
+    "label": "animals"
+  },
+  {
+    "text": "лошади",
+    "label": "animals"
+  },
+  {
+    "text": "коровы",
+    "label": "animals"
+  },
+  {
+    "text": "слоны",
+    "label": "animals"
+  },
+  {
+    "text": "львы",
+    "label": "animals"
+  },
+  {
+    "text": "тигры",
+    "label": "animals"
+  },
+  {
+    "text": "медведи",
+    "label": "animals"
+  },
+  {
+    "text": "волки",
+    "label": "animals"
+  },
+  {
+    "text": "лисы",
+    "label": "animals"
+  },
+  {
+    "text": "зайцы",
+    "label": "animals"
+  },
+  {
+    "text": "хочу завести дракона",
+    "label": "animals"
+  },
+  {
+    "text": "зоопарк и звери",
+    "label": "animals"
+  },
+  {
+    "text": "люблю собак",
+    "label": "animals"
+  },
+  {
+    "text": "питомцы и их повадки",
+    "label": "animals"
+  },
+  {
+    "text": "растения",
+    "label": "plants"
+  },
+  {
+    "text": "цветы",
+    "label": "plants"
+  },
+  {
+    "text": "деревья",
+    "label": "plants"
+  },
+  {
+    "text": "кусты",
+    "label": "plants"
+  },
+  {
+    "text": "трава",
+    "label": "plants"
+  },
+  {
+    "text": "комнатные растения",
+    "label": "plants"
+  },
+  {
+    "text": "кактус",
+    "label": "plants"
+  },
+  {
+    "text": "роза",
+    "label": "plants"
+  },
+  {
+    "text": "ромашка",
+    "label": "plants"
+  },
+  {
+    "text": "подсолнух",
+    "label": "plants"
+  },
+  {
+    "text": "дуб",
+    "label": "plants"
+  },
+  {
+    "text": "береза",
+    "label": "plants"
+  },
+  {
+    "text": "сосна",
+    "label": "plants"
+  },
+  {
+    "text": "ель",
+    "label": "plants"
+  },
+  {
+    "text": "клен",
+    "label": "plants"
+  },
+  {
+    "text": "ботаника",
+    "label": "plants"
+  },
+  {
+    "text": "флора",
+    "label": "plants"
+  },
+  {
+    "text": "выращивание",
+    "label": "plants"
+  },
+  {
+    "text": "цветы и растения",
+    "label": "plants"
+  },
+  {
+    "text": "деревья и кустарники",
+    "label": "plants"
+  },
+  {
+    "text": "ухаживать за цветами",
+    "label": "plants"
+  },
+  {
+    "text": "домашние цветы",
+    "label": "plants"
+  },
+  {
+    "text": "фотосинтез",
+    "label": "plants"
+  },
+  {
+    "text": "листья растений",
+    "label": "plants"
+  },
+  {
+    "text": "океан",
+    "label": "ocean"
+  },
+  {
+    "text": "море",
+    "label": "ocean"
+  },
+  {
+    "text": "моря",
+    "label": "ocean"
+  },
+  {
+    "text": "океаны",
+    "label": "ocean"
+  },
+  {
+    "text": "подводный мир",
+    "label": "ocean"
+  },
+  {
+    "text": "глубины",
+    "label": "ocean"
+  },
+  {
+    "text": "киты",
+    "label": "ocean"
+  },
+  {
+    "text": "дельфины",
+    "label": "ocean"
+  },
+  {
+    "text": "акулы",
+    "label": "ocean"
+  },
+  {
+    "text": "осьминоги",
+    "label": "ocean"
+  },
+  {
+    "text": "медузы",
+    "label": "ocean"
+  },
+  {
+    "text": "кораллы",
+    "label": "ocean"
+  },
+  {
+    "text": "рифы",
+    "label": "ocean"
+  },
+  {
+    "text": "волны",
+    "label": "ocean"
+  },
+  {
+    "text": "приливы",
+    "label": "ocean"
+  },
+  {
+    "text": "морская жизнь",
+    "label": "ocean"
+  },
+  {
+    "text": "тихий океан",
+    "label": "ocean"
+  },
+  {
+    "text": "атлантический",
+    "label": "ocean"
+  },
+  {
+    "text": "индийский",
+    "label": "ocean"
+  },
+  {
+    "text": "океан и море",
+    "label": "ocean"
+  },
+  {
+    "text": "волны и приливы",
+    "label": "ocean"
+  },
+  {
+    "text": "морские обитатели",
+    "label": "ocean"
+  },
+  {
+    "text": "пустыня",
+    "label": "desert"
+  },
+  {
+    "text": "песок",
+    "label": "desert"
+  },
+  {
+    "text": "барханы",
+    "label": "desert"
+  },
+  {
+    "text": "сахара",
+    "label": "desert"
+  },
+  {
+    "text": "верблюды",
+    "label": "desert"
+  },
+  {
+    "text": "кактусы",
+    "label": "desert"
+  },
+  {
+    "text": "оазис",
+    "label": "desert"
+  },
+  {
+    "text": "жара",
+    "label": "desert"
+  },
+  {
+    "text": "засуха",
+    "label": "desert"
+  },
+  {
+    "text": "пустыни",
+    "label": "desert"
+  },
+  {
+    "text": "аравия",
+    "label": "desert"
+  },
+  {
+    "text": "гоби",
+    "label": "desert"
+  },
+  {
+    "text": "калахари",
+    "label": "desert"
+  },
+  {
+    "text": "миражи",
+    "label": "desert"
+  },
+  {
+    "text": "кочевники",
+    "label": "desert"
+  },
+  {
+    "text": "пустыня сахара",
+    "label": "desert"
+  },
+  {
+    "text": "сухой климат и пески",
+    "label": "desert"
+  },
+  {
+    "text": "оазис в пустыне",
+    "label": "desert"
+  },
+  {
+    "text": "верблюды в дюнах",
+    "label": "desert"
+  },
+  {
+    "text": "горы",
+    "label": "mountain"
+  },
+  {
+    "text": "гора",
+    "label": "mountain"
+  },
+  {
+    "text": "вершина",
+    "label": "mountain"
+  },
+  {
+    "text": "эверест",
+    "label": "mountain"
+  },
+  {
+    "text": "альпы",
+    "label": "mountain"
+  },
+  {
+    "text": "кавказ",
+    "label": "mountain"
+  },
+  {
+    "text": "гималаи",
+    "label": "mountain"
+  },
+  {
+    "text": "скалы",
+    "label": "mountain"
+  },
+  {
+    "text": "восхождение",
+    "label": "mountain"
+  },
+  {
+    "text": "альпинизм",
+    "label": "mountain"
+  },
+  {
+    "text": "снег",
+    "label": "mountain"
+  },
+  {
+    "text": "ледник",
+    "label": "mountain"
+  },
+  {
+    "text": "ущелье",
+    "label": "mountain"
+  },
+  {
+    "text": "перевал",
+    "label": "mountain"
+  },
+  {
+    "text": "лавина",
+    "label": "mountain"
+  },
+  {
+    "text": "горы и походы",
+    "label": "mountain"
+  },
+  {
+    "text": "альпинизм и вершины",
+    "label": "mountain"
+  },
+  {
+    "text": "горный воздух",
+    "label": "mountain"
+  },
+  {
+    "text": "подъём в гору",
+    "label": "mountain"
+  },
+  {
+    "text": "готовка",
+    "label": "cooking"
+  },
+  {
+    "text": "готовить",
+    "label": "cooking"
+  },
+  {
+    "text": "кулинария",
+    "label": "cooking"
+  },
+  {
+    "text": "как приготовить",
+    "label": "cooking"
+  },
+  {
+    "text": "ингредиенты",
+    "label": "cooking"
+  },
+  {
+    "text": "жарка",
+    "label": "cooking"
+  },
+  {
+    "text": "варка",
+    "label": "cooking"
+  },
+  {
+    "text": "запекание",
+    "label": "cooking"
+  },
+  {
+    "text": "гриль",
+    "label": "cooking"
+  },
+  {
+    "text": "духовка",
+    "label": "cooking"
+  },
+  {
+    "text": "суп",
+    "label": "cooking"
+  },
+  {
+    "text": "паста",
+    "label": "cooking"
+  },
+  {
+    "text": "салат",
+    "label": "cooking"
+  },
+  {
+    "text": "десерт",
+    "label": "cooking"
+  },
+  {
+    "text": "как сварить",
+    "label": "cooking"
+  },
+  {
+    "text": "как пожарить",
+    "label": "cooking"
+  },
+  {
+    "text": "как запечь",
+    "label": "cooking"
+  },
+  {
+    "text": "пошаговый рецепт",
+    "label": "cooking"
+  },
+  {
+    "text": "что можно приготовить из",
+    "label": "cooking"
+  },
+  {
+    "text": "как готовить борщ",
+    "label": "cooking"
+  },
+  {
+    "text": "как приготовить пасту",
+    "label": "cooking"
+  },
+  {
+    "text": "техника приготовления",
+    "label": "cooking"
+  },
+  {
+    "text": "способы готовки",
+    "label": "cooking"
+  },
+  {
+    "text": "посоветуй рецепт",
+    "label": "cooking"
+  },
+  {
+    "text": "что приготовить на ужин",
+    "label": "cooking"
+  },
+  {
+    "text": "рецепт борща",
+    "label": "cooking"
+  },
+  {
+    "text": "как приготовить борщ",
+    "label": "cooking"
+  },
+  {
+    "text": "что приготовить сегодня на ужин?",
+    "label": "cooking"
+  },
+  {
+    "text": "дай рецепт",
+    "label": "cooking"
+  },
+  {
+    "text": "как это приготовить?",
+    "label": "cooking"
+  },
+  {
+    "text": "что вкусного приготовить?",
+    "label": "cooking"
+  },
+  {
+    "text": "рецептом поделись",
+    "label": "cooking"
+  },
+  {
+    "text": "что бы ты приготовил сегодня?",
+    "label": "cooking"
+  },
+  {
+    "text": "чем накормить гостей?",
+    "label": "cooking"
+  },
+  {
+    "text": "простой рецепт нужен",
+    "label": "cooking"
+  },
+  {
+    "text": "быстро что приготовить?",
+    "label": "cooking"
+  },
+  {
+    "text": "что вкусного перекусить?",
+    "label": "cooking"
+  },
+  {
+    "text": "Гиперион, подскажи рецепт",
+    "label": "cooking"
+  },
+  {
+    "text": "кулинарный совет нужен",
+    "label": "cooking"
+  },
+  {
+    "text": "научи готовить",
+    "label": "cooking"
+  },
+  {
+    "text": "что сварить на обед?",
+    "label": "cooking"
+  },
+  {
+    "text": "бюджетное блюдо посоветуй",
+    "label": "cooking"
+  },
+  {
+    "text": "чем угостить друзей?",
+    "label": "cooking"
+  },
+  {
+    "text": "кулинарные рецепты",
+    "label": "cooking"
+  },
+  {
+    "text": "суп и второе",
+    "label": "cooking"
+  },
+  {
+    "text": "домашняя кухня",
+    "label": "cooking"
+  },
+  {
+    "text": "рецепты",
+    "label": "cooking"
+  },
+  {
+    "text": "своими руками",
+    "label": "diy"
+  },
+  {
+    "text": "сделай сам",
+    "label": "diy"
+  },
+  {
+    "text": "diy",
+    "label": "diy"
+  },
+  {
+    "text": "поделка",
+    "label": "diy"
+  },
+  {
+    "text": "мастерить",
+    "label": "diy"
+  },
+  {
+    "text": "инструменты",
+    "label": "diy"
+  },
+  {
+    "text": "молоток",
+    "label": "diy"
+  },
+  {
+    "text": "отвертка",
+    "label": "diy"
+  },
+  {
+    "text": "дрель",
+    "label": "diy"
+  },
+  {
+    "text": "рукоделие",
+    "label": "diy"
+  },
+  {
+    "text": "вязание",
+    "label": "diy"
+  },
+  {
+    "text": "шитье",
+    "label": "diy"
+  },
+  {
+    "text": "вышивка",
+    "label": "diy"
+  },
+  {
+    "text": "плетение",
+    "label": "diy"
+  },
+  {
+    "text": "столяр",
+    "label": "diy"
+  },
+  {
+    "text": "слесарь",
+    "label": "diy"
+  },
+  {
+    "text": "мастер",
+    "label": "diy"
+  },
+  {
+    "text": "поделки своими руками",
+    "label": "diy"
+  },
+  {
+    "text": "сделать мебель самому",
+    "label": "diy"
+  },
+  {
+    "text": "мастерская и инструменты",
+    "label": "diy"
+  },
+  {
+    "text": "самодельные вещи",
+    "label": "diy"
+  },
+  {
+    "text": "сад",
+    "label": "garden"
+  },
+  {
+    "text": "огород",
+    "label": "garden"
+  },
+  {
+    "text": "дачный участок",
+    "label": "garden"
+  },
+  {
+    "text": "грядки",
+    "label": "garden"
+  },
+  {
+    "text": "посадка",
+    "label": "garden"
+  },
+  {
+    "text": "урожай",
+    "label": "garden"
+  },
+  {
+    "text": "семена",
+    "label": "garden"
+  },
+  {
+    "text": "рассада",
+    "label": "garden"
+  },
+  {
+    "text": "полив",
+    "label": "garden"
+  },
+  {
+    "text": "удобрения",
+    "label": "garden"
+  },
+  {
+    "text": "теплица",
+    "label": "garden"
+  },
+  {
+    "text": "парник",
+    "label": "garden"
+  },
+  {
+    "text": "ягоды",
+    "label": "garden"
+  },
+  {
+    "text": "фрукты",
+    "label": "garden"
+  },
+  {
+    "text": "овощи",
+    "label": "garden"
+  },
+  {
+    "text": "садоводство",
+    "label": "garden"
+  },
+  {
+    "text": "огородничество",
+    "label": "garden"
+  },
+  {
+    "text": "сад и огород",
+    "label": "garden"
+  },
+  {
+    "text": "выращивать овощи",
+    "label": "garden"
+  },
+  {
+    "text": "грядки и рассада",
+    "label": "garden"
+  },
+  {
+    "text": "грядки на даче",
+    "label": "garden"
+  },
+  {
+    "text": "грядки с овощами",
+    "label": "garden"
+  },
+  {
+    "text": "урожай с огорода",
+    "label": "garden"
+  },
+  {
+    "text": "садовые инструменты",
+    "label": "garden"
+  },
+  {
+    "text": "рыбалка",
+    "label": "fishing"
+  },
+  {
+    "text": "рыбачить",
+    "label": "fishing"
+  },
+  {
+    "text": "рыба",
+    "label": "fishing"
+  },
+  {
+    "text": "удочка",
+    "label": "fishing"
+  },
+  {
+    "text": "спиннинг",
+    "label": "fishing"
+  },
+  {
+    "text": "прикормка",
+    "label": "fishing"
+  },
+  {
+    "text": "клёв",
+    "label": "fishing"
+  },
+  {
+    "text": "улов",
+    "label": "fishing"
+  },
+  {
+    "text": "пруд",
+    "label": "fishing"
+  },
+  {
+    "text": "карп",
+    "label": "fishing"
+  },
+  {
+    "text": "щука",
+    "label": "fishing"
+  },
+  {
+    "text": "окунь",
+    "label": "fishing"
+  },
+  {
+    "text": "лещ",
+    "label": "fishing"
+  },
+  {
+    "text": "сом",
+    "label": "fishing"
+  },
+  {
+    "text": "карась",
+    "label": "fishing"
+  },
+  {
+    "text": "зимняя рыбалка",
+    "label": "fishing"
+  },
+  {
+    "text": "летняя рыбалка",
+    "label": "fishing"
+  },
+  {
+    "text": "рыбалка на выходных",
+    "label": "fishing"
+  },
+  {
+    "text": "удочка и наживка",
+    "label": "fishing"
+  },
+  {
+    "text": "поймать рыбу",
+    "label": "fishing"
+  },
+  {
+    "text": "рыбное место",
+    "label": "fishing"
+  },
+  {
+    "text": "охота",
+    "label": "hunting"
+  },
+  {
+    "text": "охотиться",
+    "label": "hunting"
+  },
+  {
+    "text": "охотник",
+    "label": "hunting"
+  },
+  {
+    "text": "ружье",
+    "label": "hunting"
+  },
+  {
+    "text": "зверь",
+    "label": "hunting"
+  },
+  {
+    "text": "дичь",
+    "label": "hunting"
+  },
+  {
+    "text": "кабан",
+    "label": "hunting"
+  },
+  {
+    "text": "олень",
+    "label": "hunting"
+  },
+  {
+    "text": "заяц",
+    "label": "hunting"
+  },
+  {
+    "text": "утка",
+    "label": "hunting"
+  },
+  {
+    "text": "тайга",
+    "label": "hunting"
+  },
+  {
+    "text": "следы",
+    "label": "hunting"
+  },
+  {
+    "text": "засидка",
+    "label": "hunting"
+  },
+  {
+    "text": "манок",
+    "label": "hunting"
+  },
+  {
+    "text": "промысел",
+    "label": "hunting"
+  },
+  {
+    "text": "трофей",
+    "label": "hunting"
+  },
+  {
+    "text": "охота и звери",
+    "label": "hunting"
+  },
+  {
+    "text": "охотничьи рассказы",
+    "label": "hunting"
+  },
+  {
+    "text": "ружьё и охота",
+    "label": "hunting"
+  },
+  {
+    "text": "охотиться в лесу",
+    "label": "hunting"
+  },
+  {
+    "text": "поход",
+    "label": "camping"
+  },
+  {
+    "text": "кемпинг",
+    "label": "camping"
+  },
+  {
+    "text": "палатка",
+    "label": "camping"
+  },
+  {
+    "text": "костер",
+    "label": "camping"
+  },
+  {
+    "text": "костёр",
+    "label": "camping"
+  },
+  {
+    "text": "ночевка",
+    "label": "camping"
+  },
+  {
+    "text": "рюкзак",
+    "label": "camping"
+  },
+  {
+    "text": "снаряжение",
+    "label": "camping"
+  },
+  {
+    "text": "походы",
+    "label": "camping"
+  },
+  {
+    "text": "выходные на природе",
+    "label": "camping"
+  },
+  {
+    "text": "бивак",
+    "label": "camping"
+  },
+  {
+    "text": "спальник",
+    "label": "camping"
+  },
+  {
+    "text": "фонарик",
+    "label": "camping"
+  },
+  {
+    "text": "выезд на природу с палаткой",
+    "label": "camping"
+  },
+  {
+    "text": "костёр и звёзды",
+    "label": "camping"
+  },
+  {
+    "text": "походная жизнь",
+    "label": "camping"
+  },
+  {
+    "text": "туристический лагерь",
+    "label": "camping"
+  },
+  {
+    "text": "выживание",
+    "label": "survival"
+  },
+  {
+    "text": "выжить",
+    "label": "survival"
+  },
+  {
+    "text": "экстрим",
+    "label": "survival"
+  },
+  {
+    "text": "чрезвычайная ситуация",
+    "label": "survival"
+  },
+  {
+    "text": "авария",
+    "label": "survival"
+  },
+  {
+    "text": "катастрофа",
+    "label": "survival"
+  },
+  {
+    "text": "дикая природа",
+    "label": "survival"
+  },
+  {
+    "text": "один в лесу",
+    "label": "survival"
+  },
+  {
+    "text": "без воды",
+    "label": "survival"
+  },
+  {
+    "text": "без еды",
+    "label": "survival"
+  },
+  {
+    "text": "первая помощь",
+    "label": "survival"
+  },
+  {
+    "text": "убежище",
+    "label": "survival"
+  },
+  {
+    "text": "огонь",
+    "label": "survival"
+  },
+  {
+    "text": "вода",
+    "label": "survival"
+  },
+  {
+    "text": "ориентирование",
+    "label": "survival"
+  },
+  {
+    "text": "компас",
+    "label": "survival"
+  },
+  {
+    "text": "выживание в природе",
+    "label": "survival"
+  },
+  {
+    "text": "экстремальные ситуации",
+    "label": "survival"
+  },
+  {
+    "text": "как выжить без воды",
+    "label": "survival"
+  },
+  {
+    "text": "аварийный набор",
+    "label": "survival"
+  },
+  {
+    "text": "астрономия",
+    "label": "astronomy"
+  },
+  {
+    "text": "планеты",
+    "label": "astronomy"
+  },
+  {
+    "text": "галактики",
+    "label": "astronomy"
+  },
+  {
+    "text": "телескоп",
+    "label": "astronomy"
+  },
+  {
+    "text": "созвездия",
+    "label": "astronomy"
+  },
+  {
+    "text": "млечный путь",
+    "label": "astronomy"
+  },
+  {
+    "text": "солнечная система",
+    "label": "astronomy"
+  },
+  {
+    "text": "юпитер",
+    "label": "astronomy"
+  },
+  {
+    "text": "сатурн",
+    "label": "astronomy"
+  },
+  {
+    "text": "венера",
+    "label": "astronomy"
+  },
+  {
+    "text": "меркурий",
+    "label": "astronomy"
+  },
+  {
+    "text": "нептун",
+    "label": "astronomy"
+  },
+  {
+    "text": "уран",
+    "label": "astronomy"
+  },
+  {
+    "text": "плутон",
+    "label": "astronomy"
+  },
+  {
+    "text": "комета",
+    "label": "astronomy"
+  },
+  {
+    "text": "астероид",
+    "label": "astronomy"
+  },
+  {
+    "text": "метеорит",
+    "label": "astronomy"
+  },
+  {
+    "text": "большой взрыв",
+    "label": "astronomy"
+  },
+  {
+    "text": "наблюдение за звездами",
+    "label": "astronomy"
+  },
+  {
+    "text": "астрономические наблюдения",
+    "label": "astronomy"
+  },
+  {
+    "text": "как наблюдать планеты",
+    "label": "astronomy"
+  },
+  {
+    "text": "какие планеты видны сегодня",
+    "label": "astronomy"
+  },
+  {
+    "text": "фазы луны",
+    "label": "astronomy"
+  },
+  {
+    "text": "солнечное затмение",
+    "label": "astronomy"
+  },
+  {
+    "text": "лунное затмение",
+    "label": "astronomy"
+  },
+  {
+    "text": "орбиты планет",
+    "label": "astronomy"
+  },
+  {
+    "text": "строение солнечной системы",
+    "label": "astronomy"
+  },
+  {
+    "text": "наука о звездах",
+    "label": "astronomy"
+  },
+  {
+    "text": "космические телескопы",
+    "label": "astronomy"
+  },
+  {
+    "text": "изучение планет",
+    "label": "astronomy"
+  },
+  {
+    "text": "астрономия для новичков",
+    "label": "astronomy"
+  },
+  {
+    "text": "звёздное небо",
+    "label": "astronomy"
+  },
+  {
+    "text": "сверхмассивные чёрные дыры",
+    "label": "astronomy"
+  },
+  {
+    "text": "астрономия и звёзды",
+    "label": "astronomy"
+  },
+  {
+    "text": "наблюдение планет",
+    "label": "astronomy"
+  },
+  {
+    "text": "космические объекты",
+    "label": "astronomy"
+  },
+  {
+    "text": "геология",
+    "label": "geology"
+  },
+  {
+    "text": "камни",
+    "label": "geology"
+  },
+  {
+    "text": "минералы",
+    "label": "geology"
+  },
+  {
+    "text": "горные породы",
+    "label": "geology"
+  },
+  {
+    "text": "кристаллы",
+    "label": "geology"
+  },
+  {
+    "text": "вулкан",
+    "label": "geology"
+  },
+  {
+    "text": "землетрясение",
+    "label": "geology"
+  },
+  {
+    "text": "тектоника",
+    "label": "geology"
+  },
+  {
+    "text": "плиты",
+    "label": "geology"
+  },
+  {
+    "text": "магма",
+    "label": "geology"
+  },
+  {
+    "text": "лава",
+    "label": "geology"
+  },
+  {
+    "text": "почва",
+    "label": "geology"
+  },
+  {
+    "text": "ископаемые",
+    "label": "geology"
+  },
+  {
+    "text": "динозавры",
+    "label": "geology"
+  },
+  {
+    "text": "палеонтология",
+    "label": "geology"
+  },
+  {
+    "text": "гейзер",
+    "label": "geology"
+  },
+  {
+    "text": "пещера",
+    "label": "geology"
+  },
+  {
+    "text": "сталактит",
+    "label": "geology"
+  },
+  {
+    "text": "сталагмит",
+    "label": "geology"
+  },
+  {
+    "text": "геология и камни",
+    "label": "geology"
+  },
+  {
+    "text": "минералы и кристаллы",
+    "label": "geology"
+  },
+  {
+    "text": "земная кора",
+    "label": "geology"
+  },
+  {
+    "text": "породы и окаменелости",
+    "label": "geology"
+  },
+  {
+    "text": "метеорология",
+    "label": "meteorology"
+  },
+  {
+    "text": "климат",
+    "label": "meteorology"
+  },
+  {
+    "text": "атмосфера",
+    "label": "meteorology"
+  },
+  {
+    "text": "облака",
+    "label": "meteorology"
+  },
+  {
+    "text": "дождь",
+    "label": "meteorology"
+  },
+  {
+    "text": "гроза",
+    "label": "meteorology"
+  },
+  {
+    "text": "молния",
+    "label": "meteorology"
+  },
+  {
+    "text": "гром",
+    "label": "meteorology"
+  },
+  {
+    "text": "радуга",
+    "label": "meteorology"
+  },
+  {
+    "text": "ветер",
+    "label": "meteorology"
+  },
+  {
+    "text": "ураган",
+    "label": "meteorology"
+  },
+  {
+    "text": "смерч",
+    "label": "meteorology"
+  },
+  {
+    "text": "торнадо",
+    "label": "meteorology"
+  },
+  {
+    "text": "циклон",
+    "label": "meteorology"
+  },
+  {
+    "text": "антициклон",
+    "label": "meteorology"
+  },
+  {
+    "text": "температура",
+    "label": "meteorology"
+  },
+  {
+    "text": "влажность",
+    "label": "meteorology"
+  },
+  {
+    "text": "давление",
+    "label": "meteorology"
+  },
+  {
+    "text": "метеорология и климат",
+    "label": "meteorology"
+  },
+  {
+    "text": "прогноз от синоптиков",
+    "label": "meteorology"
+  },
+  {
+    "text": "облака и атмосфера",
+    "label": "meteorology"
+  },
+  {
+    "text": "изменение климата",
+    "label": "meteorology"
+  },
+  {
+    "text": "объясни, пожалуйста, увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "давай разберём увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "мне нужно понять увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "расскажи мне побольше про увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "хочу изучить увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "что можешь сказать про увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "расскажи в деталях про увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "хочу услышать про увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "поговорим подробнее про увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "дай пояснение про увлечения",
+    "label": "hobbies"
+  },
+  {
+    "text": "объясни, пожалуйста, фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "давай разберём фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "мне нужно понять фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "расскажи мне побольше про фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "хочу изучить фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "что можешь сказать про фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "расскажи в деталях про фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "хочу услышать про фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "поговорим подробнее про фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "дай пояснение про фотографию",
+    "label": "photography"
+  },
+  {
+    "text": "объясни, пожалуйста, танцы",
+    "label": "dance"
+  },
+  {
+    "text": "давай разберём танцы",
+    "label": "dance"
+  },
+  {
+    "text": "мне нужно понять танцы",
+    "label": "dance"
+  },
+  {
+    "text": "расскажи мне побольше про танцы",
+    "label": "dance"
+  },
+  {
+    "text": "хочу изучить танцы",
+    "label": "dance"
+  },
+  {
+    "text": "что можешь сказать про танцы",
+    "label": "dance"
+  },
+  {
+    "text": "расскажи в деталях про танцы",
+    "label": "dance"
+  },
+  {
+    "text": "хочу услышать про танцы",
+    "label": "dance"
+  },
+  {
+    "text": "поговорим подробнее про танцы",
+    "label": "dance"
+  },
+  {
+    "text": "дай пояснение про танцы",
+    "label": "dance"
+  },
+  {
+    "text": "объясни, пожалуйста, театр",
+    "label": "theater"
+  },
+  {
+    "text": "давай разберём театр",
+    "label": "theater"
+  },
+  {
+    "text": "мне нужно понять театр",
+    "label": "theater"
+  },
+  {
+    "text": "расскажи мне побольше про театр",
+    "label": "theater"
+  },
+  {
+    "text": "хочу изучить театр",
+    "label": "theater"
+  },
+  {
+    "text": "что можешь сказать про театр",
+    "label": "theater"
+  },
+  {
+    "text": "расскажи в деталях про театр",
+    "label": "theater"
+  },
+  {
+    "text": "хочу услышать про театр",
+    "label": "theater"
+  },
+  {
+    "text": "поговорим подробнее про театр",
+    "label": "theater"
+  },
+  {
+    "text": "дай пояснение про театр",
+    "label": "theater"
+  },
+  {
+    "text": "объясни, пожалуйста, поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "давай разберём поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "мне нужно понять поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "расскажи мне побольше про поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "хочу изучить поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "что можешь сказать про поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "расскажи в деталях про поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "хочу услышать про поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "поговорим подробнее про поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "дай пояснение про поэзию",
+    "label": "poetry"
+  },
+  {
+    "text": "объясни, пожалуйста, дизайн",
+    "label": "design"
+  },
+  {
+    "text": "давай разберём дизайн",
+    "label": "design"
+  },
+  {
+    "text": "мне нужно понять дизайн",
+    "label": "design"
+  },
+  {
+    "text": "расскажи мне побольше про дизайн",
+    "label": "design"
+  },
+  {
+    "text": "хочу изучить дизайн",
+    "label": "design"
+  },
+  {
+    "text": "что можешь сказать про дизайн",
+    "label": "design"
+  },
+  {
+    "text": "расскажи в деталях про дизайн",
+    "label": "design"
+  },
+  {
+    "text": "хочу услышать про дизайн",
+    "label": "design"
+  },
+  {
+    "text": "поговорим подробнее про дизайн",
+    "label": "design"
+  },
+  {
+    "text": "дай пояснение про дизайн",
+    "label": "design"
+  },
+  {
+    "text": "объясни, пожалуйста, фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "давай разберём фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "мне нужно понять фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "расскажи мне побольше про фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "хочу изучить фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "что можешь сказать про фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "расскажи в деталях про фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "хочу услышать про фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "поговорим подробнее про фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "дай пояснение про фитнес",
+    "label": "fitness"
+  },
+  {
+    "text": "объясни, пожалуйста, йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "давай разберём йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "мне нужно понять йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "расскажи мне побольше про йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "хочу изучить йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "что можешь сказать про йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "расскажи в деталях про йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "хочу услышать про йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "поговорим подробнее про йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "дай пояснение про йогу",
+    "label": "yoga"
+  },
+  {
+    "text": "объясни, пожалуйста, медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "давай разберём медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "мне нужно понять медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "расскажи мне побольше про медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "хочу изучить медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "что можешь сказать про медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "расскажи в деталях про медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "хочу услышать про медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "поговорим подробнее про медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "дай пояснение про медитацию",
+    "label": "meditation"
+  },
+  {
+    "text": "объясни, пожалуйста, сон",
+    "label": "sleep"
+  },
+  {
+    "text": "давай разберём сон",
+    "label": "sleep"
+  },
+  {
+    "text": "мне нужно понять сон",
+    "label": "sleep"
+  },
+  {
+    "text": "расскажи мне побольше про сон",
+    "label": "sleep"
+  },
+  {
+    "text": "хочу изучить сон",
+    "label": "sleep"
+  },
+  {
+    "text": "что можешь сказать про сон",
+    "label": "sleep"
+  },
+  {
+    "text": "расскажи в деталях про сон",
+    "label": "sleep"
+  },
+  {
+    "text": "хочу услышать про сон",
+    "label": "sleep"
+  },
+  {
+    "text": "поговорим подробнее про сон",
+    "label": "sleep"
+  },
+  {
+    "text": "дай пояснение про сон",
+    "label": "sleep"
+  },
+  {
+    "text": "объясни, пожалуйста, питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "давай разберём питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "мне нужно понять питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "расскажи мне побольше про питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "хочу изучить питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "что можешь сказать про питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "расскажи в деталях про питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "хочу услышать про питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "поговорим подробнее про питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "дай пояснение про питание",
+    "label": "nutrition"
+  },
+  {
+    "text": "объясни, пожалуйста, кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "давай разберём кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "мне нужно понять кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "расскажи мне побольше про кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "хочу изучить кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "что можешь сказать про кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "расскажи в деталях про кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "хочу услышать про кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "поговорим подробнее про кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "дай пояснение про кофе",
+    "label": "coffee"
+  },
+  {
+    "text": "объясни, пожалуйста, чай",
+    "label": "tea"
+  },
+  {
+    "text": "давай разберём чай",
+    "label": "tea"
+  },
+  {
+    "text": "мне нужно понять чай",
+    "label": "tea"
+  },
+  {
+    "text": "расскажи мне побольше про чай",
+    "label": "tea"
+  },
+  {
+    "text": "хочу изучить чай",
+    "label": "tea"
+  },
+  {
+    "text": "что можешь сказать про чай",
+    "label": "tea"
+  },
+  {
+    "text": "расскажи в деталях про чай",
+    "label": "tea"
+  },
+  {
+    "text": "хочу услышать про чай",
+    "label": "tea"
+  },
+  {
+    "text": "поговорим подробнее про чай",
+    "label": "tea"
+  },
+  {
+    "text": "дай пояснение про чай",
+    "label": "tea"
+  },
+  {
+    "text": "объясни, пожалуйста, выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "давай разберём выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "мне нужно понять выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "расскажи мне побольше про выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "хочу изучить выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "что можешь сказать про выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "расскажи в деталях про выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "хочу услышать про выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "поговорим подробнее про выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "дай пояснение про выпечку",
+    "label": "baking"
+  },
+  {
+    "text": "объясни, пожалуйста, кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "давай разберём кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "мне нужно понять кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "расскажи мне побольше про кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "хочу изучить кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "что можешь сказать про кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "расскажи в деталях про кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "хочу услышать про кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "поговорим подробнее про кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "дай пояснение про кибербезопасность",
+    "label": "cybersecurity"
+  },
+  {
+    "text": "объясни, пожалуйста, программирование",
+    "label": "programming"
+  },
+  {
+    "text": "давай разберём программирование",
+    "label": "programming"
+  },
+  {
+    "text": "мне нужно понять программирование",
+    "label": "programming"
+  },
+  {
+    "text": "расскажи мне побольше про программирование",
+    "label": "programming"
+  },
+  {
+    "text": "хочу изучить программирование",
+    "label": "programming"
+  },
+  {
+    "text": "что можешь сказать про программирование",
+    "label": "programming"
+  },
+  {
+    "text": "расскажи в деталях про программирование",
+    "label": "programming"
+  },
+  {
+    "text": "хочу услышать про программирование",
+    "label": "programming"
+  },
+  {
+    "text": "поговорим подробнее про программирование",
+    "label": "programming"
+  },
+  {
+    "text": "дай пояснение про программирование",
+    "label": "programming"
+  },
+  {
+    "text": "объясни, пожалуйста, искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "давай разберём искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "мне нужно понять искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "расскажи мне побольше про искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "хочу изучить искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "что можешь сказать про искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "расскажи в деталях про искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "хочу услышать про искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "поговорим подробнее про искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "дай пояснение про искусственный интеллект",
+    "label": "ai"
+  },
+  {
+    "text": "объясни, пожалуйста, роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "давай разберём роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "мне нужно понять роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "расскажи мне побольше про роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "хочу изучить роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "что можешь сказать про роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "расскажи в деталях про роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "хочу услышать про роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "поговорим подробнее про роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "дай пояснение про роботов",
+    "label": "robotics"
+  },
+  {
+    "text": "объясни, пожалуйста, стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "давай разберём стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "мне нужно понять стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "расскажи мне побольше про стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "хочу изучить стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "что можешь сказать про стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "расскажи в деталях про стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "хочу услышать про стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "поговорим подробнее про стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "дай пояснение про стартапы",
+    "label": "startups"
+  },
+  {
+    "text": "объясни, пожалуйста, маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "давай разберём маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "мне нужно понять маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "расскажи мне побольше про маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "хочу изучить маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "что можешь сказать про маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "расскажи в деталях про маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "хочу услышать про маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "поговорим подробнее про маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "дай пояснение про маркетинг",
+    "label": "marketing"
+  },
+  {
+    "text": "объясни, пожалуйста, фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "давай разберём фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "мне нужно понять фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "расскажи мне побольше про фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "хочу изучить фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "что можешь сказать про фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "расскажи в деталях про фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "хочу услышать про фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "поговорим подробнее про фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "дай пояснение про фриланс",
+    "label": "freelance"
+  },
+  {
+    "text": "объясни, пожалуйста, свидания",
+    "label": "dating"
+  },
+  {
+    "text": "давай разберём свидания",
+    "label": "dating"
+  },
+  {
+    "text": "мне нужно понять свидания",
+    "label": "dating"
+  },
+  {
+    "text": "расскажи мне побольше про свидания",
+    "label": "dating"
+  },
+  {
+    "text": "хочу изучить свидания",
+    "label": "dating"
+  },
+  {
+    "text": "что можешь сказать про свидания",
+    "label": "dating"
+  },
+  {
+    "text": "расскажи в деталях про свидания",
+    "label": "dating"
+  },
+  {
+    "text": "хочу услышать про свидания",
+    "label": "dating"
+  },
+  {
+    "text": "поговорим подробнее про свидания",
+    "label": "dating"
+  },
+  {
+    "text": "дай пояснение про свидания",
+    "label": "dating"
+  },
+  {
+    "text": "объясни, пожалуйста, продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "давай разберём продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "мне нужно понять продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "расскажи мне побольше про продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "хочу изучить продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "что можешь сказать про продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "расскажи в деталях про продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "хочу услышать про продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "поговорим подробнее про продуктивность",
+    "label": "productivity"
+  },
+  {
+    "text": "дай пояснение про продуктивность",
+    "label": "productivity"
+  }
+]
