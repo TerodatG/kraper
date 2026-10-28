@@ -14,7 +14,9 @@ def _path(name: str, default: Path) -> Path:
     return Path(value or default).expanduser().resolve()
 
 
-BASE_DIR = _path("KRAPER_HOME", Path.cwd())
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+
+BASE_DIR = _path("KRAPER_HOME", PROJECT_DIR)
 DATA_DIR = _path("KRAPER_DATA_DIR", BASE_DIR / "data")
 MODELS_DIR = _path("KRAPER_MODELS_DIR", BASE_DIR / "models")
 ARCHIVE_DIR = _path("KRAPER_ARCHIVE_DIR", BASE_DIR / "archive")
